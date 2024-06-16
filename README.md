@@ -44,3 +44,6 @@ $ bundle exec jekyll serve
 1. Reload your web browser after making a change to preview its effect.
 
 For more information, refer to [Just the Docs](https://pmarsceill.github.io/just-the-docs/).
+
+## Redirecting Website
+To redirect cs10.org to the the baseurl you want, you need to clone and modify the cs10.github.io repo, [found here](https://github.com/cs10/cs10.github.io). Then, you will need to modify the "index.html" file with the new redirect. Push your changes, and you are all done!
