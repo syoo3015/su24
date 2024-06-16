@@ -15,7 +15,6 @@
       <!-- WEEK ONE------------------------------------------------------------ -->
       <th>Mon 6/17</th> <!-- Date -->
       <td>1. Welcome + Abstraction<br/>
-      <br/> 
       (Slides)<br/>
       (Recording)<br/>
       (Syllabus Handout)</td> <!-- Lecture -->
@@ -26,7 +25,6 @@
     <tr>
       <th>Tue 6/18</th> <!-- Date -->
       <td>2. Functions + Conditional Logic<br/>
-      <br/> 
       (Slides)<br/>
       (Recording)</td> 
       <!-- Lecture -->
