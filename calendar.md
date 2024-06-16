@@ -21,7 +21,7 @@
       (Syllabus Handout)</td> <!-- Lecture -->
       <td>1. Welcome to Snap!</td> <!-- Lab -->
       <td rowspan="2">1. Control, Scoping, Domain & Range</td> <!-- Discussion -->
-      <td><a href="https://docs.google.com/forms/d/e/1FAIpQLSc1_f-mFTj97E_7r9uH7uOWMV4zyawu9PpIWSlXCU3YH7A5Xw/viewform">Presemester Survey Released</a> <b>Due (06/20)</b></td> <!-- Assignment -->
+      <td><a href="https://docs.google.com/forms/d/e/1FAIpQLSc1_f-mFTj97E_7r9uH7uOWMV4zyawu9PpIWSlXCU3YH7A5Xw/viewform">Presemester Survey Released</a><br/> <b>Due (06/20)</b></td> <!-- Assignment -->
     </tr>
     <tr>
       <th>Tue 6/18</th> <!-- Date -->
