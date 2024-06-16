@@ -31,9 +31,10 @@
       (Recording)</td> 
       <!-- Lecture -->
       <td>2. Build Your Own Blocks</td> <!-- Lab -->
-      <td></td> <!-- Discussion -->
+      <!-- <td></td>--> <!-- Discussion -->
       <td>Project 1: Wordle™-lite 
-      Released<b>Due (6/24)</b></td> <!-- Assignment -->
+      Released<br/>
+      <b>Due (6/24)</b></td> <!-- Assignment -->
     </tr>
     <tr>
       <th>Wed 6/19 </th> <!-- Date -->
