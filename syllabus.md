@@ -41,9 +41,9 @@ This Summer, CS10 is required to run fully in-person. Consequently, remote (or h
 * **Course Website**: The day-to-day happenings of the course (and links to all the platforms below) can be found at cs10.org. Consult the [daily schedule](https://cs10.org/su24/schedule/) to find the times/locations for all synchronous course engagements.
 * **Edstem**: This will be our main Q&A platform, where you can ask (and answer) questions, see announcements, and read Weekly Blasts, which are required readings in CS10. Click the `Ed Discussion` tab on the left to navigate to Edstem.
 * **Gradescope**: This is where you will submit Projects 1-3, and the Final Project. Click the `Gradescope` tab on the left to open Edstem.
-* **Youtube**: Lecture recordings can be found on [Bcourses](https://bcourses.berkeley.edu/courses/1535327/external_tools/90481). You'll need to login with your Berkeley email to access them.
+* **Bcourses**: Lecture recordings can be found on Bcourses. Click the `Lecture Recordings` tab on the left to navigate to the recordings. You'll need to login with your Berkeley email to access them.
 * **PrairieLearn**: Project-4, Pyturis, will be submitted via PrairieLearn. A setup guide can be found [here](https://docs.google.com/document/d/1lbaAihPMPA3h9FGSXOfbQPwM1cqadfWimQbmQjYjcRQ/edit?usp=sharing).
-* **iCliker**: You are required to create a free iClicker account and download the free iClicker app. Then, you should aready be enrolled in CS10. To get credit for attending lecture, please open the app once you’re seated in the lecture hall and mark your attendance. If for some reason you are not enrolled, use this [join link](https://join.iclicker.com/RXVE).
+* **iClicker**: You are required to create a free iClicker account and download the free iClicker app. Then, you should aready be enrolled in CS10. To get credit for attending lecture, please open the app once you’re seated in the lecture hall and mark your attendance. If for some reason you are not enrolled, use this [join link](https://join.iclicker.com/RXVE).
 
 
 ## Primary Course Components
