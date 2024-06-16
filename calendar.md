@@ -68,12 +68,11 @@
     <tr>
       <td rowspan=5>2</td>
       <th>Mon 6/24</th> <!-- Date -->
-      <td>4. <br/>
+      <td>4. Lists + HOFs<br/>
       (Recording)<br/>
       (Slides)</td>
        <!-- Lecture -->
-      <td>4. Lists + HOFs
-      </td> <!-- Lab -->
+      <td>4. </td> <!-- Lab -->
       <td rowspan="2">2. Lists & HOFs, Iteration, Scoping
       <br/>
       <!-- Worksheet -->
@@ -85,31 +84,22 @@
     </tr>
     <tr>
       <th>Tue 6/25 </th> <!-- Date -->
-      <td>5.<br/>
+      <td>5. Algorithmic Complexity<br/>
       (Recording)<br/>
       (Slides)</td>
       <!-- Lecture -->
-      <td>5. 
-       
-      Algorithmic Complexity
-      
-      </td> <!-- Lab -->
+      <td>  </td> <!-- Lab -->
       <!-- <td></td>Discussion -->
       <td>Project 2: Spelling Bee 
-      Released and <b>Due (07/03)</b></td> <!-- Assignment -->
+      Released and <b>Due (07/01)</b></td> <!-- Assignment -->
     </tr>
     <tr>
       <th>Wed 6/26 </th> <!-- Date -->
       <td>6. <br/>
       (Recording)<br/>
       (Slides)<br/>
-      (Mandelbrot Set Video)
       </td> <!-- Lecture -->
-      <td>6. 
-      
-      Boards
-      
-      </td>
+      <td>6. </td>
        <!-- Lab -->
       <td rowspan="2">3. Algorithms & Algorithmic Complexity<br/>
       <!-- Worksheet<br/>
@@ -124,11 +114,7 @@
        (Recording)<br/>
        (slides)
       </td> <!-- Lecture -->
-      <td>7. 
-      
-      Recursive Reporters
-      
-      </td> <!-- Lab -->
+      <td>7. Recursive Reporters </td> <!-- Lab -->
       <!-- <td></td> Discussion -->
       <td></td> <!-- Assignment -->
     </tr>
@@ -148,15 +134,10 @@
        (slides)
       </td> <!-- Lecture -->
       <td>8.
-       
-       Testing + 2048
       </td> <!-- Lab -->
       <td rowspan="2">4. Recursion I</td> <!-- Discussion -->
       <td> 
-      
-      Project 3: 2048 Released
-       
-      and <b>Due (07/17)</b>
+      Project 3: 2048 Released and <b>Due (07/17)</b>
        </td> <!-- Assignment -->
     </tr>
     <tr>
@@ -172,11 +153,7 @@
       (Recording)<br/> 
       (Slides)
        </td> <!-- Lecture -->
-      <td>9. 
-      
-       HOFs + Functions as Data
-       
-      </td> <!-- Lab -->
+      <td>9. </td> <!-- Lab -->
       <td rowspan="2">5. Recursion II<br/>
       </td> <!-- Discussion -->
       <td></td> <!-- Assignment -->
@@ -187,11 +164,7 @@
       (Recording)<br/> 
       (Slides)
       </td> <!-- Lecture -->
-      <td>10.
-       
-      Trees and Fractals
-      
-      </td> <!-- Lab -->
+      <td>10.</td> <!-- Lab -->
       <!-- <td></td> Discussion -->
       <td></td> <!-- Assignment -->
     </tr>
@@ -239,11 +212,7 @@
       (Recording) <br/> 
       (Slides)
       </td> <!-- Lecture -->
-      <td>11. 
-      
-      Welcome to Python
-      
-      </td> <!-- Lab -->
+      <td>11.  </td> <!-- Lab -->
       <td rowspan="2">6. Intro to Python<br/>
       </td> <!-- Discussion -->
       <td></td> <!-- Assignment -->
@@ -255,11 +224,7 @@
       (Slides)
       <!-- (recording) -->
       </td> <!-- Lecture -->
-      <td>12. 
-      
-       Data Structures in Python
-       
-       </td> <!-- Lab -->
+      <td>12.  </td> <!-- Lab -->
       <!-- <td></td> Discussion -->
       <td>
       <!-- release HW4: Snap to Python Translation -->
@@ -397,11 +362,7 @@
       (Prof. Hany Farid)<br/>
       <!-- (recording) -->
       </td> <!-- Lecture -->
-      <td>16. 
-      
-      Concurrency
-      
-      </td> <!-- Lab -->
+      <td>16. </td> <!-- Lab -->
       <!-- <td></td> Discussion -->
       <td></td> <!-- Assignment -->
     </tr>
