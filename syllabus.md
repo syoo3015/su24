@@ -37,31 +37,55 @@ We’re really excited to have you on board with us this Summer for a gentle, bu
 This Summer, CS10 is required to run fully in-person. Consequently, remote (or hybrid) students can not be supported.
 
 
-* **Course Website**: The day-to-day happenings of the course (and links to all the platforms below) can be found at cs10.org. Consult the [daily schedule](https://cs10.org/su23/schedule/) to find the times/locations for all synchronous course engagements.
+* **Course Website**: The day-to-day happenings of the course (and links to all the platforms below) can be found at cs10.org. Consult the [daily schedule](https://cs10.org/su24/schedule/) to find the times/locations for all synchronous course engagements.
 * **Edstem**: This will be our main Q&A platform, where you can ask (and answer) questions, see announcements, and read Weekly Blasts, which are required readings in CS10. Click the `Ed Discussion` tab on the left to navigate to Edstem.
 * **Gradescope**: This is where you will submit Projects 1-3, and the Final Project. Click the `Gradescope` tab on the left to open Edstem.
-* **Youtube**: Lecture recordings can be found in this [Youtube playlist](https://youtube.com/playlist?list=PLnocShPlK-FvoUBvy1Mr-LuRAyqsDTX6k). You'll need to login with your Berkeley email to access them.
+* **Youtube**: Lecture recordings can be found on [Bcourses](https://bcourses.berkeley.edu/courses/1535327/external_tools/90481). You'll need to login with your Berkeley email to access them.
 * **PrairieLearn**: Project-4, Pyturis, will be submitted via PrairieLearn. A setup guide can be found [here](https://docs.google.com/document/d/1lbaAihPMPA3h9FGSXOfbQPwM1cqadfWimQbmQjYjcRQ/edit?usp=sharing).
+* **iCliker**: You are required to create a free iClicker account and download the free iClicker app. Then, you should aready be enrolled in CS10. To get credit for attending lecture, please open the app once you’re seated in the lecture hall and mark your attendance. If for some reason you are not enrolled, use this join link.
 
 
 ## Primary Course Components
 
 
-* **Lecture**: Lectures will be live and in-person in HP-Auditorium in Physics Building(Physics-3) Mon-Th, 10 - 11AM. They will be recorded, and recordings will be posted on the website after class. Lectures aim to introduce concepts and provide a "big-picture view" of material from a theoretical standpoint. Most lectures will be live and in person. However, some lecture will be pre-recorded, which you can watch on your free time, and there will be an assignment that corresponds to it to test your conceptual understanding. These quizzes do not count for your grade and lecture attendance to lecture is not required, but it is strongly recommended.
+### **Lecture**
+Lectures aim to introduce concepts and provide a "big-picture view" of material from a theoretical standpoint. Most lectures will be live and in person. However, some lecture will be pre-recorded, which you can watch on your free time, and there will be an assignment that corresponds to it to test your conceptual understanding. Attendance for these days will be through the "Lecture Quiz" solely (and no iClicker is needed for those days).
 
-* **Lab Sections**: Labs will be held synchronously and are the primary place you will learn to program. Note that you are **strongly recommended** to complete all labs with a partner, and that partner-matching threads have been added to our Edstem Forum. On the first day of lab, Teaching Assistants (TAs) will help you find a partner in your assigned lab section.<br /><br />Lab assignments will be submitted to Gradescope. There will be two assignments for each lab: one wherein you'll submit the code you wrote, and one with conceptual checkoff problems. If you get a full score on both Gradescope assignments, you will get credit for that lab. Labs are graded on an all-or-nothing basis, which means if you don't get a full score on either (or both) of the two assignments, then you won't get credit for that lab. In our lab sections (which are held in SDH-200), TAs and Academic Interns (AIs) will be available to help you with the problems.<br /><br /><b>We expect ( but don’t require) all students to attend lab sections.</b><br /><br />Lab X will be due the day that Lab X+1 is scheduled, at midnight. That is, each lab is due at midnight on the day that the next lab is released. For example, if Lab-12 is scheduled on Tuesday, and Lab-13 is scheduled on Wednesday, then Lab-12 will be due at midnight on Wednesday.<br /><br />There will be 18 graded labs (there's no submission or credit for lab-1), and your lowest 2 lab scores will be dropped.
+Lectures will be live and in-person in Physics Building (Physics-3) Mon-Th, 10 - 11AM. They will be recorded, and recordings will be posted on the website after class. Attendance is required, and credit for attending will be through the iClicker app. If you cannot attend lecture, you will need to complete the corresponding "Lecture Quiz" on Gradescope for attendance credit. The corresponding lecture quiz will be due on Gradescope the day of the following lecture at 2359hrs. On this quiz, we will ask questions about lecture content. No extensions are provided on these quizzes.
 
-
-* **Discussion Sections**: Discussion sections are where you will delve into the content more deeply with worksheets in traditional “pen-and-paper” style. This is where you will develop the theoretical computational skills needed to understand the basics of programming and to prepare for our exams. <b>Attendance (in-person) is required as part of your grade and will be tracked; you will fill out a Google Form with a password to receive credit.</b> <br /><br />You don't have to submit any work for discussions (besides filling out the attendance form). You can miss up-to 2 out of 12 discussion sections without penalty (you don't need to tell us that you're missing class). Please reserve these drops for unexpected emergencies / sickness / ... If there are circumstances which cause you to miss more than 2 discussions (like prolonged sickness, family emergencies, etc.) then you should email your Discussion-TA and they'll discuss other options.<br /><br />From experience, we've observed that students who regularly attend and pay attention in discussions tend to do better on exams.
-
-* **Office Hours (OH)** There will be two kinds of OH, described bellow. The times and locations for all OH are all posted under the 'daily schedule' tab on the course website. You <b>don't</b> need to email / obtain an appointment. You can attend any and all OH that work for you (i.e. you don't just have to attend your TA's OH.)
-
-* **Staff OH**: During staff OH (which will run in-person in Sutardja Dai Hall-200), you can meet with our TAs / tutors for help with course material, assignments, or bigger picture questions.
-
-* **Instructor OH**: Victoria will be hosting OH on Mondays and Wednesdays from 6 to 7 PM. Andrew will be hosting OH on Tuesdays and Thursdays from 5 to 6 PM. Both of these OH will be in Soda-777. These OH are designed for more conceptual help (for instance, if you're confused about some topic, or want to go over practice problems) or to discuss more general topics (e.g. college advice or how you're doing in the class.) For help with specific assignments (labs and projects) and/or debugging, you should attend Staff-OH.
+Your lowest 3 lecture-quiz scores will be automatically dropped — so you can miss up to 3 lectures (or skip 3 quizzes) without penalty, and you don’t need to inform us when you miss class. These drops are not intended to be “free-passes” to skip lectures: please reserve them for unexpected emergencies / sickness / … since missing out on content will only disrupt your learning. If there are extenuating circumstances which cause you to miss more than 3 lectures (like prolonged sickness, family emergencies, etc.) then you should visit Support OH.
 
 
-* **Projects**: These assignments will be one of the best ways for you to apply what you have learned in lecture, lab, and discussion. These will be a bit more time intensive than the other assignments and will require you to be caught up on the components of the course.
+### **Lab Sections**
+Labs will be held synchronously and are the primary place you will learn to program. Note that you are **strongly recommended** to complete all labs with a partner, and that partner-matching threads have been added to our Edstem Forum. On the first day of lab, Teaching Assistants (TAs) will help you find a partner in your assigned lab section.
+
+<br /><br />Lab assignments will be submitted to Gradescope. There will be two assignments for each lab: one wherein you'll submit the code you wrote, and one with conceptual checkoff problems. If you get a full score on both Gradescope assignments, you will get credit for that lab. Labs are graded on an all-or-nothing basis, which means if you don't get a full score on either (or both) of the two assignments, then you won't get credit for that lab. In our lab sections (which are held in SDH-200), TAs and Tutors will be available to help you with the problems.<br /><br /><b>We require all students to attend lab sections.</b><br /><br />
+
+Lab X will be due the day that Lab X+1 is scheduled, at midnight. That is, each lab is due at midnight on the day that the next lab is released. For example, if Lab-12 is scheduled on Tuesday, and Lab-13 is scheduled on Wednesday, then Lab-12 will be due at midnight on Wednesday.<br /><br />There will be 24 graded labs (there's no submission or credit for lab-1), and your lowest 2 lab scores will be dropped.
+
+Attendance to lab sections are required and part of your grade. There will be no make-up options for lab attendance. You can miss up to 5 lab sections without penalty so you do not need to inform us when you cannot attend lab. If there are extenuating circumstances which cause you to miss more than 5 lab sections (like prolonged sickness, family emergencies, etc.) then you should visit Support OH. Please note, the 5 "skip days" for lab sections only applies to attendance. You are still required to complete and submit the lab assignment.
+
+
+### **Discussion Sections** 
+Discussion sections are where you will delve into the content more deeply with worksheets in traditional “pen-and-paper” style. This is where you will develop the theoretical computational skills needed to understand the basics of programming and to prepare for our exams. 
+
+<b>Attendance (in-person) is required as part of your grade and will be tracked; you will fill out a Google Form with a password to receive credit.</b> <br /><br />You don't have to submit any work for discussions (besides filling out the attendance form). You can miss up-to 2 out of 12 discussion sections without penalty (you don't need to tell us that you're missing class). Please reserve these drops for unexpected emergencies / sickness / ... If there are circumstances which cause you to miss more than 2 discussions (like prolonged sickness, family emergencies, etc.) then you should email your Discussion-TA and they'll discuss other options.<br /><br />From experience, we've observed that students who regularly attend and pay attention in discussions tend to do better on exams.
+
+### **Office Hours (OH)** 
+There will be three kinds of OH, described bellow. The times and locations for all OH are all posted under the 'daily schedule' tab on the course website. You <b>don't</b> need to email / obtain an appointment. You can attend any and all OH that work for you (i.e. you don't just have to attend your TA's OH.)
+
+#### **General OH **
+General OH is intended for any course and content related questions. Here, you can get help with your code, debugging, understanding something conceptually, getting started on assignments, etc.
+
+#### **Support OH** 
+These are intended for students to discuss their status in their class, catching up, discussing extenuating circumstances, requesting extensions, getting additional support, etc. Support OH is NOT for content related questions. So if you have questions about content, we will redirect you to General OH or Instructor OH
+
+#### **Instructor OH** 
+Victoria will be hosting OH on Mondays and Wednesdays from 6 to 7 PM. Andrew will be hosting OH on Tuesdays and Thursdays from 5 to 6 PM. Both of these OH will be in Soda-777. These OH are designed for more conceptual help (for instance, if you're confused about some topic, or want to go over practice problems) or to discuss more general topics (e.g. college advice or how you're doing in the class.) For help with specific assignments (labs and projects) and/or debugging, you should attend Staff-OH.
+
+
+### **Projects** 
+These assignments will be one of the best ways for you to apply what you have learned in lecture, lab, and discussion. These will be a bit more time intensive than the other assignments and will require you to be caught up on the components of the course.
 
 - There will be 3 Snap<em>!</em> projects, 1 Python project, and 1 project wherein you can use a language of your choice to build something of your choice. The number of points per project is listed in the Grading Breakdown. Project specs will be released on the website and on Edstem, and you should always read them before starting to work on a project.
 
@@ -105,21 +129,14 @@ More logistics for the exam will be released closer to the exam date. The best w
 
 | Week             | Date     | Time     |  Location  |
 | :----:           | :----:   | :----:   |  :----:    | 
-| Week-1           | FRI 6/21 | 2-5PM    |  SDH-200   |
-| Week-2           | MON 6/26 | 6-9PM    |  Cory-521  |
-| Week-2           | FRI 6/30 | 2-5PM    |  Cory-521  |
-| Week-3           | MON 7/03 | 6-9PM    |  The Woz   |
-| Week-4           | MON 7/10 | 6-9PM    |  The Woz   |
-| Week-4           | FRI 7/14 | 2-5PM    |  The Woz   |
-| Week-5           | MON 7/17 | 6-9PM    |  The Woz   |
-| Week-5           | FRI 7/21 | 2-5PM    |  The Woz   |
-| Week-6           | MON 7/24 | 6-9PM    |  The Woz   |
-| Week-6           | FRI 7/28 | 2-5PM    |  Cory-521  |
-| Week-7           | MON 7/31 | 6-9PM    |  The Woz   |
-| Week-7           | FRI 8/04 | 2-5PM    |  Cory-521  |
-| Week-8           | MON 8/07 | 6-9PM    |  The Woz   |
+| Week-1           | FRI 6/21 | 2-6PM    |  SDH-200   |
+| Week-2           | MON 6/28 | 2-6PM    |  SDH-200  |
+| Week-4           | MON 7/10 | 11AM-3PM |  SDH-200   |
+| Week-6           | WED 7/24 | 11AM-3PM |  SDH-200   |
+| Week-7           | FRI 8/02 | 2-6PM    |  SDH-200  |
+| Week-8           | MON 8/07 | 11AM-3PM |  SDH-200   |
 
-**The Woz refers to The Wozniak Lounge: Soda 430-438.**
+**The SDH-200 refers to Sutardja Dai Hall 200.**
 
 
 ## General Grading Breakdown — Percentages
@@ -138,14 +155,14 @@ More logistics for the exam will be released closer to the exam date. The best w
 
 | Component                                     |  Points  |
 | :----:                                        |  :----:  |
-| Midterm                                       | 10       |
-| Final                                         | 25       |
+| Midterm                                       | 75       |
+| Final                                         | 125      |
 | Project 1: Wordle™-lite                       | 10       |
 | Project 2: Spelling-Bee                       | 25       |
 | Project 3: 2048                               | 35       |
-| Project 4: Pyturis                            | 30       |
-| Final Project                                 | 50       |
-| Labs                                          | 75       |
+| Project 4: Pyturis                            | 45       |
+| Final Project                                 | 60       |
+| Labs                                          | 100      |
 | Attendance / Participation                    | 25       |
 
 **Total: 500 Points**
