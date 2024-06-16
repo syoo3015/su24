@@ -72,10 +72,7 @@
       (Recording)<br/>
       (Slides)</td>
        <!-- Lecture -->
-      <td>4. 
-      
-      Lists + HOFs
-      
+      <td>4. Lists + HOFs
       </td> <!-- Lab -->
       <td rowspan="2">2. Lists & HOFs, Iteration, Scoping
       <br/>
