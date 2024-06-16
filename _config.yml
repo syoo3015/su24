@@ -13,12 +13,12 @@
 # you will see them accessed via {{ site.title }}, {{ site.github_repo }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: BJC
-tagline:
+title: CS10 Summer 2024
+tagline: The Beauty and Joy of Computing
 description: A gentle but thorough introduction to computer science.
-author: Murtaza Ali
-baseurl: '/' # the subpath of your site, e.g. /blog
-url: 'https://cs10.org' # the base hostname & protocol for your site, e.g. http://example.com
+author: Victoria Phelps
+baseurl: /su24 # the subpath of your site, e.g. /blog
+url: https://cs10.org
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
 
 logo: "./assets/images/bjc.png"
@@ -35,6 +35,32 @@ aux_links:
 # Makes Aux links open in a new tab. Default is false
 aux_links_new_tab: true
 footer_content:
+
+sass:
+    load_paths:
+        - _sass
+        -  C:/Ruby31-x64/lib/ruby/gems/3.1.0/gems/bootstrap-5.2.3
+
+# Theme settings
+remote_theme: pmarsceill/just-the-docs@v0.3.3
+color_scheme: light
+search_enabled: true
+heading_anchors: true
+permalink: pretty
+aux_links_new_tab: true
+ga_tracking: UA-47210910-1
+external_navigation:
+  - title: Lecture Recordings
+    url: https://bcourses.berkeley.edu/courses/1535327/external_tools/90481
+  - title: Ed Discussion
+    url: https://edstem.org/us/courses/59710/discussion/
+  - title: Gradescope
+    url: https://www.gradescope.com/courses/782967
+  - title: Snap!
+    url: https://snap.berkeley.edu/snap
+footer_content:
+
+gcalAPIKey: AIzaSyBcbN6F79dPHiGMvftIKZB86A6Ki2eIKZs
 
 # Collections for website data
 collections:
@@ -76,3 +102,7 @@ compress_html:
 
 plugins:
   - jekyll-seo-tag
+
+just_the_docs:
+  collections:
+

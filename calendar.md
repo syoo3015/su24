@@ -1,0 +1,513 @@
+<table class="table table-bordered schedule-table">
+  <thead>
+    <tr>
+      <th class="center schedule-week-num">Week</th>
+      <th>Date</th>
+      <th>Lecture</th>
+      <th>Lab</th>
+      <th>Discussion</th>
+      <th>Assignment</th>
+    </tr>
+  </thead>
+  <tbody class="js-scheduleContent">
+    <tr>
+      <td rowspan=5>1</td> <!-- Week Number -->
+      <!-- WEEK ONE------------------------------------------------------------ -->
+      <th>Mon 6/17</th> <!-- Date -->
+      <td></td> <!-- Lecture -->
+      <td></td> <!-- Lab -->
+      <td></td> <!-- Discussion -->
+      <td>Presemester Survey Released and <b>Due (06/20)</b></td> <!-- Assignment -->
+    </tr>
+    <tr>
+      <th>Tue 6/18</th> <!-- Date -->
+      <td>1: Welcome + Abstraction<br/>
+      <br/> 
+      (Slides)<br/>
+      (Syllabus Handout)
+      </td> 
+      <!-- Lecture -->
+      <td>1. Welcome to Snap!
+      </td> <!-- Lab -->
+      <td></td> <!-- Discussion -->
+      <td></td> <!-- Assignment -->
+    </tr>
+    <tr>
+      <th>Wed 6/19 </th> <!-- Date -->
+      <td>2. Functions + Conditional Logic<br/>
+      (Recording)<br/>
+      (Slides)
+      </td>        <!-- Lecture -->
+      <td>2. Build Your Own Blocks</td> <!-- Lab -->
+      <td rowspan="2">1. Number Rep, Control, Scoping, Domain & Range <!-- Discussion -->
+      </td>
+      <td>Project 1: Wordle™-lite 
+      Released and <b>Due (6/26)</b>
+      </td>
+    </tr>
+    <tr>
+      <th>Thur 6/20 </th> <!-- Date -->
+      <td>3. <br/>
+      (Recording)<br/>
+      (Slides)</td>
+      <!-- (slides)</td> 
+      Lecture -->
+      <td> 3. Conditionals, Reporters, Testing
+      </td> <!-- Lab -->
+      <!-- <td></td> Discussion -->
+      <td> Presemester Survey Due </td> <!-- Assignment -->
+    </tr>
+    <tr>
+      <th>Fri 6/21</th> <!-- Date -->
+      <td>No Lecture</td> <!-- Lecture -->
+      <td>No Lab</td> <!-- Lab -->
+      <td>No Discussion</td> <!-- Discussion -->
+      <td></td> <!-- Assignment -->
+    </tr>
+    <!-- WEEK TWO------------------------------------------------------------ -->
+    <tr>
+      <td rowspan=5>2</td>
+      <th>Mon 6/24</th> <!-- Date -->
+      <td>4. <br/>
+      (Recording)<br/>
+      (Slides)</td>
+       <!-- Lecture -->
+      <td> 4. Lists + HOFs</td> 
+      <td><!-- Lab -->
+      <td rowspan="2">2. Lists & HOFs, Iteration, Scoping
+      <br/>
+      <!-- Worksheet -->
+      <br/>
+      <!-- Slides<br/>
+      Solutions -->
+      </td> <!-- Discussion -->
+      <td>Project 1: Wordle™-lite Due</td> <!-- Assignment -->
+    </tr>
+    <tr>
+      <th>Tue 6/25 </th> <!-- Date -->
+      <td>5.<br/>
+      (Recording)<br/>
+      (Slides)</td>
+      <!-- Lecture -->
+      <td>5.Algorithmic Complexity</td> 
+      <!-- Lab -->
+      <!-- <td></td>Discussion -->
+      <td>Project 2: Spelling Bee 
+      Released and <b>Due (07/03)</b></td> <!-- Assignment -->
+    </tr>
+    <tr>
+      <th>Wed 6/26 </th> <!-- Date -->
+      <td>6. <br/>
+      (Recording)<br/>
+      (Slides)<br/>
+      (Mandelbrot Set Video)
+      </td> <!-- Lecture -->
+      <td>6. 
+      
+      Boards
+      
+      </td>
+       <!-- Lab -->
+      <td rowspan="2">3. Algorithms & Algorithmic Complexity<br/>
+      <!-- Worksheet<br/>
+      Slides<br/>
+      Solutions -->
+      </td> <!-- Discussion -->
+      <td></td> <!-- Assignment -->
+    </tr>
+    <tr>  
+      <th>Thur 6/27 </th> <!-- Date -->
+      <td>7. <br/>
+       (Recording)<br/>
+       (slides)
+      </td> <!-- Lecture -->
+      <td>7. 
+      
+      Recursive Reporters
+      
+      </td> <!-- Lab -->
+      <!-- <td></td> Discussion -->
+      <td></td> <!-- Assignment -->
+    </tr>
+    <tr>
+      <th>Fri 6/28 </th> <!-- Date -->
+      <td>No Lecture</td> <!-- Lecture -->
+      <td>No Lab</td> <!-- Lab -->
+      <td>No Discussion</td> <!-- Discussion -->
+      <td></td> <!-- Assignment -->
+    </tr>
+    <!-- WEEK THREE------------------------------------------------------------ -->
+    <tr>
+      <td rowspan=5>3</td>
+      <th>Mon 7/1 </th> <!-- Date -->
+      <td>8. <br/>
+      (Recording)<br/>
+       (slides)
+      </td> <!-- Lecture -->
+      <td>8.
+       
+       Testing + 2048
+      </td> <!-- Lab -->
+      <td rowspan="2">4. Recursion I</td> <!-- Discussion -->
+      <td> 
+      
+      Project 3: 2048 Released
+       
+      and <b>Due (07/17)</b>
+       </td> <!-- Assignment -->
+    </tr>
+    <tr>
+      <th>Tue 7/2</th> <!-- Date -->
+      <td>No Lecture</td> <!-- Lecture -->
+      <td>No Lab</td> <!-- Lab -->
+      <!-- <td></td>Discussion -->
+      <td></td> <!-- Assignment -->
+    </tr>
+    <tr>
+      <th>Wed 7/3 </th> <!-- Date -->
+      <td>9. <br/>
+      (Recording)<br/> 
+      (Slides)
+       </td> <!-- Lecture -->
+      <td>9. 
+      
+       HOFs + Functions as Data
+       
+      </td> <!-- Lab -->
+      <td rowspan="2">5. Recursion II<br/>
+      </td> <!-- Discussion -->
+      <td></td> <!-- Assignment -->
+    </tr>
+    <tr>
+      <th>Thur 7/4</th> <!-- Date -->
+      <td>10. <br/>
+      (Recording)<br/> 
+      (Slides)
+      </td> <!-- Lecture -->
+      <td>10.
+       
+      Trees and Fractals
+      
+      </td> <!-- Lab -->
+      <!-- <td></td> Discussion -->
+      <td></td> <!-- Assignment -->
+    </tr>
+    <tr>
+      <th>Fri 7/5</th> <!-- Date -->
+      <td>No Lecture</td> <!-- Lecture -->
+      <td>No Lab</td> <!-- Lab -->
+      <td>No Discussion</td> <!-- Discussion -->
+      <td>Midterm Exam 5pm-8pm <br />
+      Pinmental 1
+      </td> <!-- Assignment -->
+    </tr>
+    <!-- WEEK FOUR------------------------------------------------------------ -->
+    <tr>
+      <td rowspan=5>4</td>
+      <th>Mon 7/8</th> <!-- Date -->
+      <td>11. <br/>
+      (Recording) <br/> 
+      (Slides)
+      </td> <!-- Lecture -->
+      <td>In-Lab Midterm</td> <!-- Lab -->
+      <td rowspan="2">No Discussion</td> <!-- Discussion -->
+      <td>In-Lab Midterm Exam<br/>
+      9-11am PST<br/>
+      11am-1pm PST<br/>
+      3-5pm PST<br/>
+      SDH 200
+      </td> <!-- Assignment -->
+    </tr>
+    <tr>
+      <th>Tue 7/9</th> <!-- Date -->
+      <td>12. <br/>
+      (Recording) <br/> 
+      (Slides)
+      <!-- (recording) -->
+      </td> <!-- Lecture -->
+      <td>No Lab</td> <!-- Lab -->
+      <!-- <td></td>Discussion -->
+      <td></td> <!-- Assignment -->
+    </tr>
+    <tr>
+      <th>Wed 7/10 </th> <!-- Date -->
+      <td>13. <br/>
+      <!-- (recording) -->
+      (Recording) <br/> 
+      (Slides)
+      </td> <!-- Lecture -->
+      <td>11. 
+      
+      Welcome to Python
+      
+      </td> <!-- Lab -->
+      <td rowspan="2">6. Intro to Python<br/>
+      </td> <!-- Discussion -->
+      <td></td> <!-- Assignment -->
+    </tr>
+    <tr>
+      <th>Thur 7/11</th> <!-- Date -->
+      <td>14. <br/>
+      (Recording)<br/>
+      (Slides)
+      <!-- (recording) -->
+      </td> <!-- Lecture -->
+      <td>12. 
+      
+       Data Structures in Python
+       
+       </td> <!-- Lab -->
+      <!-- <td></td> Discussion -->
+      <td>
+      <!-- release HW4: Snap to Python Translation -->
+      </td> <!-- Assignment -->
+    </tr>
+    <tr>
+      <th>Fri 7/12</th> <!-- Date -->
+      <td>No Lecture</td> <!-- Lecture -->
+      <td>No Lab</td> <!-- Lab -->
+      <td>No Discussion</td> <!-- Discussion -->
+      <td></td> <!-- Assignment -->
+    </tr>
+    <!-- WEEK FIVE ------------------------------------------------------------ -->
+    <tr>
+      <td rowspan=5>5</td>
+      <th>Mon 7/15</th> <!-- Date -->
+      <td>15. <br/>
+      (Recording)<br/>
+      (Slides)
+      <!-- (recording) -->
+      </td> <!-- Lecture -->
+      <td>
+      <!--  -->
+      No Lab
+      <!--  -->
+      </td> <!-- Lab -->
+      <td rowspan="2">7. Python Data Structures<br/>
+      <!-- Worksheet<br/>
+      Slides<br/>
+      Solutions -->
+      </td> <!-- Discussion -->
+      <td>Project 3: 2048 Due</td> <!-- Assignment -->
+    </tr>
+    <tr>
+      <th>Tue 7/16</th> <!-- Date -->
+      <td>16. <br/>
+      (Recording)<br/>
+      (Slides)<br/>
+      (Code)
+      <!-- (recording) -->
+      </td><!-- Lecture -->
+      <td>No Lab</td> <!-- Lab -->
+      <!-- <td></td>Discussion -->
+      <td>Project 4: Pyturis Released and <b>Due (07/24)</b><br/>
+      Final Project Proposal Released and <b>Due (07/22)</b><br/>
+      </td> <!-- Assignment -->
+    </tr>
+    <tr>
+      <th>Wed 7/17 </th> <!-- Date -->
+      <td>17. <br />
+      (Recording)<br/>
+      (Dr. Nicholas Weaver)
+      </td> <!-- Lecture -->
+      <td>13. OOP in Python
+      <!-- OOP -->
+      </td> <!-- Lab -->
+      <td rowspan="2">8. Python OOP
+      <!-- Worksheet<br/>
+      Slides<br/>
+      Solutions -->
+      </td> <!-- Discussion -->
+      <td>
+      <!-- release HW5: OOP Practice -->
+      </td> <!-- Assignment -->
+    </tr>
+    <tr>
+      <th>Thur 7/18</th> <!-- Date -->
+      <td>18. <br/>
+      (Recording)<br/>
+      (Slides)
+      </td> <!-- Lecture -->
+      <td>14. Text Processing in Python</td> <!-- Lab -->
+      <!-- <td></td> Discussion -->
+      <td>
+      <!-- release Final Project Propasal -->
+      </td> <!-- Assignment -->
+    </tr>
+    <tr>
+      <th>Fri 7/19</th> <!-- Date -->
+      <td>No Lecture</td> <!-- Lecture -->
+      <td>No Lab</td> <!-- Lab -->
+      <td>No Discussion</td> <!-- Discussion -->
+      <td>Final Project Propasal due Saturday 11:59pm</td> <!-- Assignment -->
+    </tr>
+    <!-- WEEK SIX ------------------------------------------------------------ -->
+    <tr>
+      <td rowspan=5>6</td>
+      <th>Mon 7/22</th> <!-- Date -->
+      <td>19. <br/>
+      (Recording)<br/>
+      (Slides)<br/>
+      (Code)
+      </td> <!-- Lecture -->
+      <td></td>  Project Proposal Reviews + Project Worksession <!-- Lab -->
+      <td rowspan="2">9. Lambdas and HOFs<br/>
+      </td> <!-- Discussion -->
+      <td>Project 4: Pyturis Due <br /> 
+      Final Project Released and <b>Due (08/07)</b><br/>
+      </td> <!-- Assignment -->
+    </tr>
+    <tr>
+      <th>Tue 7/23</th> <!-- Date -->
+      <td>20. <br/>
+      (Recording)<br/>
+      (Slides)
+      </td> <!-- Lecture -->
+      <td>
+      <!--  -->
+      Project Proposal Review + worksession <br />
+      15. Data Science (Optional)
+      <!--  -->
+      </td> <!-- Lab -->
+      <!-- <td></td>Discussion -->
+      <td></td> <!-- Assignment -->
+    </tr>
+    <tr>
+      <th>Wed 7/24 </th> <!-- Date -->
+      <td>21: <br/>
+      (Recording)<br/>
+      (slides)
+      </td> <!-- Lecture -->
+      <td>No Lab</td> <!-- Lab -->
+      <td rowspan="2">10. Tree Recursion + Concurrency<br/>
+      <!-- Worksheet<br/>
+      Slides<br/>
+      Solutions -->
+      </td> <!-- Discussion -->
+      <td></td> <!-- Assignment -->
+    </tr>
+    <tr>
+      <th>Thur 7/25</th> <!-- Date -->
+      <td>22. <br/>
+      (Recording)<br/>
+      (Slides)<br/>
+      (Prof. Hany Farid)<br/>
+      <!-- (recording) -->
+      </td> <!-- Lecture -->
+      <td>16. 
+      
+      Concurrency
+      
+      </td> <!-- Lab -->
+      <!-- <td></td> Discussion -->
+      <td></td> <!-- Assignment -->
+    </tr>
+    <tr>
+      <th>Fri 7/26</th> <!-- Date -->
+      <td>No Lecture</td> <!-- Lecture -->
+      <td>No Lab</td> <!-- Lab -->
+      <td>No Discussion</td> <!-- Discussion -->
+      <td></td> <!-- Assignment -->
+    </tr>
+    <!-- WEEK SEVEN ------------------------------------------------------------ -->
+    <tr>
+      <td rowspan=5>7</td>
+      <th>Mon 7/29</th> <!-- Date -->
+      <td>23.<br/>
+      (Recording)<br/>
+      (Slides)<br/>
+      </td> <!-- Lecture -->
+      <td>No Lab</td> <!-- Lab -->
+      <td rowspan="2">
+      11. Final Review <br/>
+      <!-- Worksheet<br/>
+      Solutions -->
+      </td> <!-- Discussion -->
+      <td></td> <!-- Assignment -->
+    </tr>
+    <tr>
+      <th>Tue 7/30</th> <!-- Date -->
+      <td>24. <br/>
+      (Recording)<br/>
+      (Slides)<br/>
+      </td> <!-- Lecture -->
+      <td>
+      <!--  -->
+      No Lab
+      <!--  -->
+      </td> <!-- Lab -->
+      <!-- <td></td>Discussion -->
+      <td></td> <!-- Assignment -->
+    </tr>
+    <tr>
+      <th>Wed 7/31 </th> <!-- Date -->
+      <td>25. <br/>
+      (Recording)<br/>
+      (Slides)<br/>
+      </td> <!-- Lecture -->
+      <td></td> <!-- Lab -->
+      <td rowspan="2">12. Conclusion and Farewell<br/>
+      <!-- Worksheet -->
+      </td> <!-- Discussion -->
+      <td></td><!-- Assignment -->
+    </tr>
+    <tr>
+      <th>Thur 8/01</th> <!-- Date -->
+      <td>26. <br/>
+      (Recording)<br/>
+      (Slides)<br/>
+      </td> <!-- Lecture -->
+      <td>In-Lab Final</td> <!-- Lab -->
+      <!-- <td></td> Discussion -->
+      <td>In-Lab Final Exam<br/>
+      11am-1pm PST<br/>
+      3-5pm PST<br/>
+      SDH 200
+      </td> <!-- Assignment -->
+    </tr>
+    <tr>
+      <th>Fri 8/02</th> <!-- Date -->
+      <td>No Lecture</td> <!-- Lecture -->
+      <td>No Lab</td> <!-- Lab -->
+      <td>No Discussion</td> <!-- Discussion -->
+      <td></td> <!-- Assignment -->
+    </tr>
+    <!-- WEEK EIGHT ------------------------------------------------------------ -->
+    <tr>
+      <td rowspan=5>8</td>
+      <th>Mon 8/05</th> <!-- Date -->
+      <td rowspan="5"></td> <!-- Lecture -->
+      <td rowspan="5"></td> <!-- Lab -->
+      <td rowspan="5"></td> <!-- Discussion -->
+      <td>Final Project Due</td> <!-- Assignment -->
+    </tr>
+    <tr>
+      <th>Tue 8/06</th> <!-- Date -->
+      <!-- <td></td> --> <!-- Lecture -->
+      <!-- <td></td> --> <!-- Lab --> 
+      <!-- <td></td>Discussion -->
+      <td></td> <!-- Assignment -->
+    </tr>
+    <tr>
+      <th>Wed 8/7</th> <!-- Date -->
+      <!-- Lecture -->
+      <!-- Lab -->
+      <!-- Discussion -->
+      <td></td> <!-- Assignment -->
+    </tr>
+    <tr>
+      <th>Thur 8/8</th> <!-- Date -->
+      <!-- Lecture -->
+      <!-- Lab -->
+      <!-- <td></td> Discussion -->
+      <td></td> <!-- Assignment -->
+    </tr>
+    <tr>
+      <th>Fri 8/9</th> <!-- Date -->
+       <!-- Lecture -->
+      <!-- Lab -->
+      <!-- Discussion -->
+      <td></td> <!-- Assignment -->
+    </tr>
+  </tbody>
+</table>
