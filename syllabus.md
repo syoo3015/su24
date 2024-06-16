@@ -101,12 +101,23 @@ All exams will be proctored and be given electronically. Exams will be held in-p
 
 More logistics for the exam will be released closer to the exam date. The best way to prepare is to utilize the practice exams posted under `resources`. Exam review sessions will also be conducted and details will be posted on Edstem closer to the exams. To ask questions about past exams, you're welcome to visit the instructors' OH. The Summer 2023 exam will likely be slightly more reflective of our exam in format / style of problems, though difficulty and question-types may vary nonetheless.
 
+
 ### Exam Schedule
 
 | Midterm                                       | 7/12, 1-4 PM    |
 | Midterm Retake                                | 7/19, 1-4 PM    |
 | Final                                         | TBD (6 hours)   |
 | Final Retake                                  | TBD (6 hours)   |
+
+
+### Exam Clobber Policy
+
+If your percentage score on the final is higher than your percentage score on the midterm, then we will clobber (replace) your percentage score on the midterm with your percentage score on the final. The clobber can never hurt your grade: if you score lower, no replacement will be done.
+
+
+### Exam Retake Policy
+
+For both the midterm and final, there is a retake. The retake is designed for you to take the exam again if you did not perform as well as you liked on the original. The retake is also designed for those you who could not attend the original exam. Only the highest score will count towards your grade for that Midterm or Final. We will not reschedule retakes. If you miss both the Midterm and Midterm Retake, then the Final will count towards the Midterm grade as well. If you miss the retakes and the original exams for both the Midterm and the Final, then you will receive a '0' for both exams.
 
 
 
@@ -127,7 +138,7 @@ More logistics for the exam will be released closer to the exam date. The best w
 
 * **Project Parties**: These will serve as specialized OH wherein you'll be able to work with your peers <b>(within the limits of our collaboration policies)</b> and seek assistance from course-staff on whatever project is currently assigned. We strongly encourage you to attend project parties as they will help you finish your assignments on time. Project Parties will run on Mondays (6-9PM) and Fridays (6/23) on most weeks. Here's a detailed schedule:
 
-## Project-Party Schedule
+### Project-Party Schedule
 
 
 | Week             | Date     | Time     |  Location  |
@@ -142,8 +153,9 @@ More logistics for the exam will be released closer to the exam date. The best w
 **The SDH-200 refers to Sutardja Dai Hall 200.**
 
 
+## Grading
 
-## General Grading Breakdown — Percentages
+### General Grading Breakdown — Percentages
 
 
 | Component                                     |  Percentage Weighting  |
@@ -154,7 +166,7 @@ More logistics for the exam will be released closer to the exam date. The best w
 | Projects                                      | 35%      |
 | Final Exam                                    | 25%      |
 
-## Specific Grading Breakdown — Points
+### Specific Grading Breakdown — Points
 
 
 | Component                                     |  Points  |
@@ -171,7 +183,7 @@ More logistics for the exam will be released closer to the exam date. The best w
 
 **Total: 500 Points**
 
-## Grading Bins
+### Grading Bins
 
 | Letter Grade       |    Range                          |
 | :----:             |    :----:                         |
@@ -189,18 +201,6 @@ More logistics for the exam will be released closer to the exam date. The best w
 'A+' grades will be awarded at the instructors' discretion in cases of exceptional performance.
 
 Your total points will be rounded to the nearest integer when we compute letter grades. 0.5 will round to 1, but 0.49 will round to 0.
-
-
-
-## Exam Clobber Policy
-
-If your percentage score on the final is higher than your percentage score on the midterm, then we will clobber (replace) your percentage score on the midterm with your percentage score on the final. The clobber can never hurt your grade: if you score lower, no replacement will be done.
-
-
-
-## Exam Retake Policy
-
-For both the midterm and final, there is a retake. The retake is designed for you to take the exam again if you did not perform as well as you liked on the original. The retake is also designed for those you who could not attend the original exam. Only the highest score will count towards your grade for that Midterm or Final. We will not reschedule retakes. If you miss both the Midterm and Midterm Retake, then the Final will count towards the Midterm grade as well. If you miss the retakes and the original exams for both the Midterm and the Final, then you will receive a '0' for both exams.
 
 
 
