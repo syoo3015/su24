@@ -14,55 +14,49 @@
       <td rowspan=5>1</td> <!-- Week Number -->
       <!-- WEEK ONE------------------------------------------------------------ -->
       <th>Mon 6/17</th> <!-- Date -->
-      <td></td> <!-- Lecture -->
-      <td></td> <!-- Lab -->
-      <td></td> <!-- Discussion -->
-      <td>Presemester Survey Released and <b>Due (06/20)</b></td> <!-- Assignment -->
+      <td>1. Welcome + Abstraction<br/>
+      <br/> 
+      (Slides)<br/>
+      (Recording)<br/>
+      (Syllabus Handout)</td> <!-- Lecture -->
+      <td>1. Welcome to Snap!</td> <!-- Lab -->
+      <td rowspan="2">1. Control, Scoping, Domain & Range</td> <!-- Discussion -->
+      <td><a href="https://docs.google.com/forms/d/e/1FAIpQLSc1_f-mFTj97E_7r9uH7uOWMV4zyawu9PpIWSlXCU3YH7A5Xw/viewform">Presemester Survey Released</a> <b>Due (06/20)</b></td> <!-- Assignment -->
     </tr>
     <tr>
       <th>Tue 6/18</th> <!-- Date -->
-      <td>1: Welcome + Abstraction<br/>
+      <td>2. Functions + Conditional Logic<br/>
       <br/> 
       (Slides)<br/>
-      (Syllabus Handout)
-      </td> 
+      (Recording)</td> 
       <!-- Lecture -->
-      <td>1. Welcome to Snap!
-      </td> <!-- Lab -->
+      <td>2. Build Your Own Blocks</td> <!-- Lab -->
       <td></td> <!-- Discussion -->
-      <td></td> <!-- Assignment -->
+      <td>Project 1: Wordle™-lite 
+      Released<b>Due (6/24)</b></td> <!-- Assignment -->
     </tr>
     <tr>
       <th>Wed 6/19 </th> <!-- Date -->
-      <td>2. Functions + Conditional Logic<br/>
-      (Recording)<br/>
-      (Slides)
-      </td>        <!-- Lecture -->
-      <td>2. Build Your Own Blocks</td> <!-- Lab -->
-      <td rowspan="2">1. Number Rep, Control, Scoping, Domain & Range <!-- Discussion -->
-      </td>
-      <td>Project 1: Wordle™-lite 
-      Released and <b>Due (6/26)</b>
-      </td>
+      <td>No Class!</td>        <!-- Lecture -->
+      <td>No Class!</td> <!-- Lab -->
+      <td rowspan="2">2. Lists & HOFs, Iteration, Scoping</td> <!-- Discussion -->
+      <td></td> <!-- Assignments -->
     </tr>
     <tr>
       <th>Thur 6/20 </th> <!-- Date -->
-      <td>3. <br/>
+      <td>3. Iteration + Scoping<br/>
       (Recording)<br/>
       (Slides)</td>
-      <!-- (slides)</td> 
-      Lecture -->
-      <td> 3. Conditionals, Reporters, Testing
-      </td> <!-- Lab -->
+      <td> 3. Conditionals, Reporters, Testing</td> <!-- Lab -->
       <!-- <td></td> Discussion -->
-      <td> Presemester Survey Due </td> <!-- Assignment -->
+      <td> Pre-semester Survey Due </td> <!-- Assignment -->
     </tr>
     <tr>
       <th>Fri 6/21</th> <!-- Date -->
       <td>No Lecture</td> <!-- Lecture -->
       <td>No Lab</td> <!-- Lab -->
       <td>No Discussion</td> <!-- Discussion -->
-      <td></td> <!-- Assignment -->
+      <td>Project 1 Party!</td> <!-- Assignment -->
     </tr>
     <!-- WEEK TWO------------------------------------------------------------ -->
     <tr>
@@ -73,13 +67,7 @@
       (Slides)</td>
        <!-- Lecture -->
       <td>4. </td> <!-- Lab -->
-      <td rowspan="2">2. Lists & HOFs, Iteration, Scoping
-      <br/>
-      <!-- Worksheet -->
-      <br/>
-      <!-- Slides<br/>
-      Solutions -->
-      </td> <!-- Discussion -->
+      <td rowspan="2"></td> <!-- Discussion -->
       <td>Project 1: Wordle™-lite Due</td> <!-- Assignment -->
     </tr>
     <tr>
