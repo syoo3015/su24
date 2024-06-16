@@ -71,28 +71,31 @@ Discussion sections are where you will delve into the content more deeply with w
 
 <b>Attendance (in-person) is required as part of your grade and will be tracked; you will fill out a Google Form with a password to receive credit. Discussion will be located in Soda 320.</b> <br /><br />You don't have to submit any work for discussions (besides filling out the attendance form). You can miss up-to 2 out of 12 discussion sections without penalty (you don't need to tell us that you're missing class). Please reserve these drops for unexpected emergencies / sickness / ... If there are circumstances which cause you to miss more than 2 discussions (like prolonged sickness, family emergencies, etc.) then you should email your Discussion-TA and they'll discuss other options.<br /><br />From experience, we've observed that students who regularly attend and pay attention in discussions tend to do better on exams.
 
-### **Office Hours (OH)** 
+
+### Office Hours (OH) 
 There will be three kinds of OH, described bellow. The times and locations for all OH are all posted under the 'daily schedule' tab on the course website. You <b>don't</b> need to email / obtain an appointment. You can attend any and all OH that work for you (i.e. you don't just have to attend your TA's OH.)
 
-#### **General OH **
+
+#### General OH
 General OH is intended for any course and content related questions. Here, you can get help with your code, debugging, understanding something conceptually, getting started on assignments, etc. General OH will be located in SDH-200
 
-#### **Support OH** 
+#### Support OH 
 These are intended for students to discuss their status in their class, catching up, discussing extenuating circumstances, requesting extensions, getting additional support, etc. Support OH is NOT for content related questions. So if you have questions about content, we will redirect you to General OH or Instructor OH
 
-#### **Instructor OH** 
+#### Instructor OH 
 Victoria will be hosting OH on Mondays and Wednesdays from 6 to 7 PM. Andrew will be hosting OH on Tuesdays and Thursdays from 5 to 6 PM. Both of these OH will be in Soda-777. These OH are designed for more conceptual help (for instance, if you're confused about some topic, or want to go over practice problems) or to discuss more general topics (e.g. college advice or how you're doing in the class.) For help with specific assignments (labs and projects) and/or debugging, you should attend Staff-OH.
 
 
-### **Projects** 
+### Projects 
 These assignments will be one of the best ways for you to apply what you have learned in lecture, lab, and discussion. These will be a bit more time intensive than the other assignments and will require you to be caught up on the components of the course.
 
 - There will be 3 Snap<em>!</em> projects, 1 Python project, and 1 project wherein you can use a language of your choice to build something of your choice. The number of points per project is listed in the Grading Breakdown. Project specs will be released on the website and on Edstem, and you should always read them before starting to work on a project.
 
 
+
 ## Exams
 
-* **Exams**: There will be two exams (Midterm and Final). Both the Midterm and the Final will have one additional retake. The retakes are optional and intended for those you either missed the original date or those who did not like their score and would like to restest their knowledge. The concepts in the retakes will be similar, but the retakes will not be the same exam as the originals. If you take both the original and the retake, we will ONLY apply your highest score from that exam. Please note, a higher Midterm score cannot replace a Final score. 
+**Exams**: There will be two exams (Midterm and Final). Both the Midterm and the Final will have one additional retake. The retakes are optional and intended for those you either missed the original date or those who did not like their score and would like to restest their knowledge. The concepts in the retakes will be similar, but the retakes will not be the same exam as the originals. If you take both the original and the retake, we will ONLY apply your highest score from that exam. Please note, a higher Midterm score cannot replace a Final score. 
 
 All exams will be proctored and be given electronically. Exams will be held in-person, on-campus, at these times only. No alternate / remote exams will be offered other than the retakes. If you miss an exam, you'll receive a zero. If there was an emergency, please email the instructors ([jedi_force@](mailto:jedi_force@berkeley.edu) and [rothmana@](mailto:rothmana@eecs.berkeley.edu)) and cc cs10@. It is your responsibility to find the exam rooms. It might help to visit the rooms a day in advance (you could use Google Maps to find these locations.)<br /><br />
 
@@ -137,6 +140,7 @@ More logistics for the exam will be released closer to the exam date. The best w
 | Week-8           | MON 8/07 | 11AM-3PM |  SDH-200   |
 
 **The SDH-200 refers to Sutardja Dai Hall 200.**
+
 
 
 ## General Grading Breakdown — Percentages
@@ -187,13 +191,18 @@ More logistics for the exam will be released closer to the exam date. The best w
 Your total points will be rounded to the nearest integer when we compute letter grades. 0.5 will round to 1, but 0.49 will round to 0.
 
 
+
 ## Exam Clobber Policy
 
 If your percentage score on the final is higher than your percentage score on the midterm, then we will clobber (replace) your percentage score on the midterm with your percentage score on the final. The clobber can never hurt your grade: if you score lower, no replacement will be done.
 
+
+
 ## Exam Retake Policy
 
 For both the midterm and final, there is a retake. The retake is designed for you to take the exam again if you did not perform as well as you liked on the original. The retake is also designed for those you who could not attend the original exam. Only the highest score will count towards your grade for that Midterm or Final. We will not reschedule retakes. If you miss both the Midterm and Midterm Retake, then the Final will count towards the Midterm grade as well. If you miss the retakes and the original exams for both the Midterm and the Final, then you will receive a '0' for both exams.
+
+
 
 ## DSP Accommodations
 
@@ -204,6 +213,7 @@ UC Berkeley is committed to creating a learning environment that meets the needs
 If you have a disability, or think you may have a disability, you can work with the Disabled Students' Program (DSP) to request an official accommodation. The Disabled Students' Program (DSP) is the campus office responsible for authorizing disability-related academic accommodations, in cooperation with the students themselves and their instructors. You can find more information about DSP, including contact information and the application process here: dsp.berkeley.edu. If you have already been approved for accommodations through DSP, please meet with me so we can develop an implementation plan together."
 
 Students who need academic accommodations or have questions about their accommodations should contact DSP, located at 260 César Chávez Student Center. Students may call 642-0518 (voice), 642-6376 (TTY), or e-mail dsp@berkeley.edu(link sends e-mail)
+
 
 
 ## Extension Requests
@@ -227,9 +237,11 @@ You're also allowed to retroactively obtain extensions without penalty: i.e., yo
 <b>Important: While extensions may not be visible on PrairieLearn/Gradescope (a.k.a your assignments may be marked as 'Late'), they will be factored in when we compute your final grade.</b>
 
 
+
 ## Lateness Penalties
 
 Any labs or projects that are submitted late will receive half-credit, regardless of how late the submission is. For the final project, late submissions may not be graded since our grading staff has limited availability. If you need an extension, please utilize the extension request form. If there are extenuating circumstances, please email cs10@.
+
 
 
 ## Academic Integrity
@@ -268,8 +280,9 @@ On exams, we will be absolutely unforgiving. Any instance of cheating results in
 
 If at any point in the academic-integrity process, a student lies or attempts to mislead course-staff  —thereby wasting everyone’s time— then in addition to the aforementioned sanctions, the s will write a recommendation for the student’s dismissal and submit it to the Office of Student Conduct.
 
-## Diversity and Inclusion Statement
 
+
+## Diversity and Inclusion Statement
 
 We recognize that Computer Science is a demographically skewed field in the United States, and that even at Berkeley, minoritized students can find themselves feeling alone. It is our goal in this course to deliver an equitable learning experience for everyone involved. Concretely, this means a few things:
 - In addition to teaching the technical skills necessary for programming, we will also teach the social implications of computer science. In doing so, we will directly address the contributions of underrepresented groups to the field, which are often overlooked.
@@ -277,11 +290,12 @@ We recognize that Computer Science is a demographically skewed field in the Unit
 - Discrimination or disrespect on the basis of race, ethnicity, religion, socioeconomic status, ability, gender, or sexual orientation will not be tolerated under any circumstances. Should someone make you feel uncomfortable or disrespected in any way, please let the instructors know immediately via email ([jedi_force@](mailto:jedi_force@berkeley.edu) and [rothmana@](mailto:rothmana@eecs.berkeley.edu)) or by attending Instructor OH. You may also fill out the [EECS Incident Reporting Form](https://eecs.link/climate).
 
 
+
 ## Academic Accommodations Hub
 Here's a link to the [Academic Accommodations Hub](https://evcp.berkeley.edu/programs-resources/academic-accommodations-hub).
+
 
 
 ## EECS Student Climate & Incident Reporting Form
 It is very important to the EECS Department that every student in the EECS community feels safe, respected and welcome.  We recognize though that incidents happen, sometimes unintentionally, that run counter to that goal.
 The EECS department provides a secure and anonymous [Incident Reporting Form](https://eecs.link/climate) that can be used to report incidents including (but not limited to) microaggressions, discrimination, marginalizing / alienating behaviour, etc.
-
