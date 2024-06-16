@@ -100,7 +100,7 @@ These are intended for students to discuss their status in their class, catching
 
 #### Instructor OH 
 
-Victoria will be hosting OH on Mondays and Wednesdays from 6 to 7 PM. Andrew will be hosting OH on Tuesdays and Thursdays from 5 to 6 PM. Both of these OH will be in Soda-777. These OH are designed for more conceptual help (for instance, if you're confused about some topic, or want to go over practice problems) or to discuss more general topics (e.g. college advice or how you're doing in the class.) For help with specific assignments (labs and projects) and/or debugging, you should attend General OH.
+Victoria will be hosting OH on Mondays and Wednesdays from 6 to 7 PM. Andrew will be hosting OH on Tuesdays and Thursdays from 4 to 5 PM. Both of these OH will be in Soda-777. These OH are designed for more conceptual help (for instance, if you're confused about some topic, or want to go over practice problems) or to discuss more general topics (e.g. college advice or how you're doing in the class.) For help with specific assignments (labs and projects) and/or debugging, you should attend General OH.
 
 
 ### Projects 
