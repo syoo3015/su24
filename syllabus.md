@@ -26,13 +26,11 @@ All times below are in PST. Please add "berkeley.edu" at the end of all emails.
 
 ## Welcome
 
-
 Welcome to CS10: The Beauty and Joy of Computing! <br /><br />
 We’re really excited to have you on board with us this Summer for a gentle, but thorough introduction to Computer Science. Our course will start out in the block-based language Snap<em>!</em>, but will transition into Python once you've learned some fundamentals of programming. By the end of the course, we hope you'll walk away with a deeper understanding of the ideas that have come to define computer science, the ability to build your own programs, and the confidence to apply these skills in whichever field you choose to pursue.
 
 
 ## Platforms
-
 
 This Summer, CS10 is required to run fully in-person. Consequently, remote (or hybrid) students can not be supported.
 
@@ -48,7 +46,8 @@ This Summer, CS10 is required to run fully in-person. Consequently, remote (or h
 ## Primary Course Components
 
 
-### **Lecture**
+### Lecture
+
 Lectures aim to introduce concepts and provide a "big-picture view" of material from a theoretical standpoint. Most lectures will be live and in person. However, some lecture will be pre-recorded, which you can watch on your free time, and there will be an assignment that corresponds to it to test your conceptual understanding. Attendance for these days will be through the "Lecture Quiz" solely (and no iClicker is needed for those days).
 
 Lectures will be live and in-person in Physics Building (Physics-3) Mon-Th, 10 - 11AM. They will be recorded, and recordings will be posted on the website after class. Attendance is required, and credit for attending will be through the iClicker app. If you cannot attend lecture, you will need to complete the corresponding "Lecture Quiz" on Gradescope for attendance credit. The corresponding lecture quiz will be due on Gradescope the day of the following lecture at 2359hrs. On this quiz, we will ask questions about lecture content. No extensions are provided on these quizzes.
@@ -56,7 +55,8 @@ Lectures will be live and in-person in Physics Building (Physics-3) Mon-Th, 10 -
 Your lowest 3 lecture-quiz scores will be automatically dropped — so you can miss up to 3 lectures (or skip 3 quizzes) without penalty, and you don’t need to inform us when you miss class. These drops are not intended to be “free-passes” to skip lectures: please reserve them for unexpected emergencies / sickness / … since missing out on content will only disrupt your learning. If there are extenuating circumstances which cause you to miss more than 3 lectures (like prolonged sickness, family emergencies, etc.) then you should visit Support OH.
 
 
-### **Lab Sections**
+### Sections
+
 Labs will be held synchronously and are the primary place you will learn to program. Note that you are **strongly recommended** to complete all labs with a partner, and that partner-matching threads have been added to our Edstem Forum. On the first day of lab, Teaching Assistants (TAs) will help you find a partner in your assigned lab section. Labs will be located in SDH-200
 
 <br /><br />Lab assignments will be submitted to Gradescope. There will be two assignments for each lab: one wherein you'll submit the code you wrote, and one with conceptual checkoff problems. If you get a full score on both Gradescope assignments, you will get credit for that lab. Labs are graded on an all-or-nothing basis, which means if you don't get a full score on either (or both) of the two assignments, then you won't get credit for that lab. In our lab sections (which are held in SDH-200), TAs and Tutors will be available to help you with the problems.<br /><br /><b>We require all students to attend lab sections.</b><br /><br />
@@ -66,27 +66,33 @@ Lab X will be due the day that Lab X+1 is scheduled, at midnight. That is, each 
 Attendance to lab sections are required and part of your grade. There will be no make-up options for lab attendance. You can miss up to 5 lab sections without penalty so you do not need to inform us when you cannot attend lab. If there are extenuating circumstances which cause you to miss more than 5 lab sections (like prolonged sickness, family emergencies, etc.) then you should visit Support OH. Please note, the 5 "skip days" for lab sections only applies to attendance. You are still required to complete and submit the lab assignment.
 
 
-### **Discussion Sections** 
+### Discussion Sections
+
 Discussion sections are where you will delve into the content more deeply with worksheets in traditional “pen-and-paper” style. This is where you will develop the theoretical computational skills needed to understand the basics of programming and to prepare for our exams. 
 
 <b>Attendance (in-person) is required as part of your grade and will be tracked; you will fill out a Google Form with a password to receive credit. Discussion will be located in Soda 320.</b> <br /><br />You don't have to submit any work for discussions (besides filling out the attendance form). You can miss up-to 2 out of 12 discussion sections without penalty (you don't need to tell us that you're missing class). Please reserve these drops for unexpected emergencies / sickness / ... If there are circumstances which cause you to miss more than 2 discussions (like prolonged sickness, family emergencies, etc.) then you should email your Discussion-TA and they'll discuss other options.<br /><br />From experience, we've observed that students who regularly attend and pay attention in discussions tend to do better on exams.
 
 
 ### Office Hours (OH) 
+
 There will be three kinds of OH, described bellow. The times and locations for all OH are all posted under the 'daily schedule' tab on the course website. You <b>don't</b> need to email / obtain an appointment. You can attend any and all OH that work for you (i.e. you don't just have to attend your TA's OH.)
 
 
 #### General OH
+
 General OH is intended for any course and content related questions. Here, you can get help with your code, debugging, understanding something conceptually, getting started on assignments, etc. General OH will be located in SDH-200
 
 #### Support OH 
+
 These are intended for students to discuss their status in their class, catching up, discussing extenuating circumstances, requesting extensions, getting additional support, etc. Support OH is NOT for content related questions. So if you have questions about content, we will redirect you to General OH or Instructor OH
 
 #### Instructor OH 
+
 Victoria will be hosting OH on Mondays and Wednesdays from 6 to 7 PM. Andrew will be hosting OH on Tuesdays and Thursdays from 5 to 6 PM. Both of these OH will be in Soda-777. These OH are designed for more conceptual help (for instance, if you're confused about some topic, or want to go over practice problems) or to discuss more general topics (e.g. college advice or how you're doing in the class.) For help with specific assignments (labs and projects) and/or debugging, you should attend Staff-OH.
 
 
 ### Projects 
+
 These assignments will be one of the best ways for you to apply what you have learned in lecture, lab, and discussion. These will be a bit more time intensive than the other assignments and will require you to be caught up on the components of the course.
 
 - There will be 3 Snap<em>!</em> projects, 1 Python project, and 1 project wherein you can use a language of your choice to build something of your choice. The number of points per project is listed in the Grading Breakdown. Project specs will be released on the website and on Edstem, and you should always read them before starting to work on a project.
@@ -133,13 +139,12 @@ For both the midterm and final, there is a retake. The retake is designed for yo
 | Final Project Proposals                       | FRI 7/26 on Gradescope   |
 | Final Project                                 | MON 8/05 on Gradescope   |
 
-
 **All deadlines are at 2359 hrs (11:59:00 PM.)**
+
 
 * **Project Parties**: These will serve as specialized OH wherein you'll be able to work with your peers <b>(within the limits of our collaboration policies)</b> and seek assistance from course-staff on whatever project is currently assigned. We strongly encourage you to attend project parties as they will help you finish your assignments on time. Project Parties will run on Mondays (6-9PM) and Fridays (6/23) on most weeks. Here's a detailed schedule:
 
 ### Project-Party Schedule
-
 
 | Week             | Date     | Time     |  Location  |
 | :----:           | :----:   | :----:   |  :----:    | 
@@ -155,8 +160,8 @@ For both the midterm and final, there is a retake. The retake is designed for yo
 
 ## Grading
 
-### General Grading Breakdown — Percentages
 
+### General Grading Breakdown — Percentages
 
 | Component                                     |  Percentage Weighting  |
 | :----:                                        |  :----:  |
@@ -167,7 +172,6 @@ For both the midterm and final, there is a retake. The retake is designed for yo
 | Final Exam                                    | 25%      |
 
 ### Specific Grading Breakdown — Points
-
 
 | Component                                     |  Points  |
 | :----:                                        |  :----:  |
@@ -252,6 +256,7 @@ Here, we will lay out our academic integrity policies which can help you disting
 
 
 **What constitutes cheating?**
+
 * Copying part or all of another student’s project code with the exception of your partner(s) assuming that the project you are working on allows for partnered work. This includes students from previous semesters (we still have their code and will know if you do this).
 * Sharing or receiving the exact steps used to solve a project problem (even if code is not explicitly sent).
 * Copying part or all of another student’s exam answers.
@@ -260,6 +265,7 @@ Here, we will lay out our academic integrity policies which can help you disting
 
 
 **What constitutes collaboration?**
+
 * **Asking instead of telling**. If you’re working with your friends and one of them is stuck on a part of an assignment, try to ask them guiding questions instead of telling them the answer.
 * **Keeping things conceptual!** It’s more beneficial to your learning if you come up with a solution yourself, rather than having it told to you. This also applies if you are helping someone else.
 We highly encourage collaboration, so let’s define what that means. Discussing approaches to problems is fine (in fact, we actively encourage it), as long as you eventually arrive at a good enough understanding of the problem that you are able to code the solution completely by yourself. You should not allow concerns about cheating to get in the way of discussing the class material with your classmates. It is okay if you have received some help with ideas along the way (but not a fully worked out solution).\*
@@ -268,6 +274,7 @@ We highly encourage collaboration, so let’s define what that means. Discussing
 
 
 **What happens if you cheat?**
+
 We take cheating extremely seriously, and will almost always pursue the strictest consequences available to us. We have advanced cheating detection software, and will routinely run this to detect cheating. These are sophisticated tools that are pretty hard to fool- any attempts to obfuscate your code to avoid detection will likely fail, and instead may result in additional consequences.
 
 Note that you will always have a chance to explain your actions before any action is taken. If you admit that you cheated, we will apply the necessary sanctions. If you'd like to meet with us to discuss your situation, we'll set up a meeting. Afterwards, if staff determines that you cheated and you don't agree with that decision, we'll proceed with a Student-Conduct Investigation.
@@ -292,10 +299,12 @@ We recognize that Computer Science is a demographically skewed field in the Unit
 
 
 ## Academic Accommodations Hub
+
 Here's a link to the [Academic Accommodations Hub](https://evcp.berkeley.edu/programs-resources/academic-accommodations-hub).
 
 
 
 ## EECS Student Climate & Incident Reporting Form
+
 It is very important to the EECS Department that every student in the EECS community feels safe, respected and welcome.  We recognize though that incidents happen, sometimes unintentionally, that run counter to that goal.
 The EECS department provides a secure and anonymous [Incident Reporting Form](https://eecs.link/climate) that can be used to report incidents including (but not limited to) microaggressions, discrimination, marginalizing / alienating behaviour, etc.
