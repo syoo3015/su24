@@ -72,8 +72,11 @@
       (Recording)<br/>
       (Slides)</td>
        <!-- Lecture -->
-      <td> 4. Lists + HOFs</td> 
-      <td><!-- Lab -->
+      <td>4. 
+      
+      Lists + HOFs
+      
+      </td> <!-- Lab -->
       <td rowspan="2">2. Lists & HOFs, Iteration, Scoping
       <br/>
       <!-- Worksheet -->
@@ -89,8 +92,11 @@
       (Recording)<br/>
       (Slides)</td>
       <!-- Lecture -->
-      <td>5.Algorithmic Complexity</td> 
-      <!-- Lab -->
+      <td>5. 
+       
+      Algorithmic Complexity
+      
+      </td> <!-- Lab -->
       <!-- <td></td>Discussion -->
       <td>Project 2: Spelling Bee 
       Released and <b>Due (07/03)</b></td> <!-- Assignment -->

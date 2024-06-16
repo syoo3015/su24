@@ -1,7 +1,7 @@
 ---
 name: Andrew Rothman
 role: Instructor
-email: rothmana@eecs
+email: 
 website: 
 photo: andrewR.png
 ---
