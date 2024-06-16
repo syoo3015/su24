@@ -62,7 +62,7 @@ Your lowest 3 lecture-quiz scores will be automatically dropped — so you can m
 ### Lab Sections
 
 
-Labs will be held synchronously and are the primary place you will learn to program. Note that you are **strongly recommended** to complete all labs with a partner, and that partner-matching threads have been added to our Edstem Forum. On the first day of lab, Teaching Assistants (TAs) will help you find a partner in your assigned lab section. Labs will be located in SDH-200
+Labs will be held synchronously and are the primary place you will learn to program. Note that you are **strongly recommended** to complete all labs with a partner, and that partner-matching threads have been added to our Edstem Forum. On the first day of lab, Teaching Assistants (TAs) will help you find a partner in your assigned lab section. Labs will be located in SDH-200. You must attend the lab section you signed up for in CalCentral.
 
 Lab assignments will be submitted to Gradescope. There will be two assignments for each lab: one wherein you'll submit the code you wrote, and one with conceptual checkoff problems. If you get a full score on both Gradescope assignments, you will get credit for that lab. Labs are graded on an all-or-nothing basis, which means if you don't get a full score on either (or both) of the two assignments, then you won't get credit for that lab. In our lab sections (which are held in SDH-200), TAs and Tutors will be available to help you with the problems.
 
@@ -76,7 +76,13 @@ Lab X will be due the day that Lab X+1 is scheduled, at midnight. That is, each 
 
 Discussion sections are where you will delve into the content more deeply with worksheets in traditional “pen-and-paper” style. This is where you will develop the theoretical computational skills needed to understand the basics of programming and to prepare for our exams. 
 
-<b>Attendance (in-person) is required as part of your grade and will be tracked; you will fill out a Google Form with a password to receive credit. Discussion will be located in Soda 320.</b> <br /><br />You don't have to submit any work for discussions (besides filling out the attendance form). You can miss up-to 2 out of 12 discussion sections without penalty (you don't need to tell us that you're missing class). Please reserve these drops for unexpected emergencies / sickness / ... If there are circumstances which cause you to miss more than 2 discussions (like prolonged sickness, family emergencies, etc.) then you should email your Discussion-TA and they'll discuss other options.<br /><br />From experience, we've observed that students who regularly attend and pay attention in discussions tend to do better on exams.
+<b>Attendance (in-person) is required as part of your grade and will be tracked; you will fill out a Google Form with a password to receive credit. Discussion will be located in Soda 320. You must attend the discussion section you signed up for in CalCentral.</b> <br /><br />
+
+You don't have to submit any work for discussions (besides filling out the attendance form). You can miss up-to 2 out of 15 discussion sections without penalty (you don't need to tell us that you're missing class). Please reserve these drops for unexpected emergencies / sickness / ... If there are circumstances which cause you to miss more than 2 discussions (like prolonged sickness, family emergencies, etc.) then you should email your Discussion-TA and they'll discuss other options.
+
+To makeup attendance for a missed discussion, you will need to complete and submit the discussion worksheet. You must complete the entire worksheet to receive credit. The discussion worksheets are located on the website, and you will submit them to Gradescope. You can submit the worksheet in any format, i.e. handwritten, electronically written, typed, etc. Again, submitting a worksheet is only required for those you are making up a missed attendance.
+
+<br /><br />From experience, we've observed that students who regularly attend and pay attention in discussions tend to do better on exams.
 
 
 ### Office Hours (OH) 
