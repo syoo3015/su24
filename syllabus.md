@@ -26,11 +26,13 @@ All times below are in PST. Please add "berkeley.edu" at the end of all emails.
 
 ## Welcome
 
+
 Welcome to CS10: The Beauty and Joy of Computing! <br /><br />
 We’re really excited to have you on board with us this Summer for a gentle, but thorough introduction to Computer Science. Our course will start out in the block-based language Snap<em>!</em>, but will transition into Python once you've learned some fundamentals of programming. By the end of the course, we hope you'll walk away with a deeper understanding of the ideas that have come to define computer science, the ability to build your own programs, and the confidence to apply these skills in whichever field you choose to pursue.
 
 
 ## Platforms
+
 
 This Summer, CS10 is required to run fully in-person. Consequently, remote (or hybrid) students can not be supported.
 
