@@ -18,7 +18,7 @@
       (Slides)<br/>
       (Recording)<br/>
       (Syllabus Handout)</td> <!-- Lecture -->
-      <td>1. Welcome to Snap!</td> <!-- Lab -->
+      <td> <a href="https://docs.google.com/document/d/1A-e8t_ow2SamdUqJC9tfT11-ZaCn351NW3CpD-KvxN8/edit?usp=sharing">1. Welcome to Snap!</a></td> <!-- Lab -->
       <td rowspan="2">1. Control, Scoping, Domain & Range</td> <!-- Discussion -->
       <td><a href="https://docs.google.com/forms/d/e/1FAIpQLSc1_f-mFTj97E_7r9uH7uOWMV4zyawu9PpIWSlXCU3YH7A5Xw/viewform">Presemester Survey Released</a><br/> <b>Due (06/20)</b></td> <!-- Assignment -->
     </tr>
@@ -28,7 +28,7 @@
       (Slides)<br/>
       (Recording)</td> 
       <!-- Lecture -->
-      <td>2. Build Your Own Blocks</td> <!-- Lab -->
+      <td><a href="https://docs.google.com/document/d/1ewb7nT9CGZRqnbbYmKWaqXJHDqq6Nn0Y8vNOjgaMrBk/edit?usp=sharing">2. Build Your Own Blocks</a></td> <!-- Lab -->
       <!-- <td></td>--> <!-- Discussion -->
       <td>Project 1: Wordle™-lite 
       Released<br/>
@@ -46,7 +46,7 @@
       <td>3. Iteration + Scoping<br/>
       (Recording)<br/>
       (Slides)</td>
-      <td> 3. Conditionals, Reporters, Testing</td> <!-- Lab -->
+      <td> <a href="https://docs.google.com/document/d/1NkU9MzRESC0F1l3A520-F2AtSnf3rheOFxvUEGXd4F8/edit?usp=sharing">3. Conditionals, Reporters, Testing</a></td> <!-- Lab -->
       <!-- <td></td> Discussion -->
       <td> Pre-semester Survey Due </td> <!-- Assignment -->
     </tr>
