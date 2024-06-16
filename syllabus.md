@@ -42,7 +42,7 @@ This Summer, CS10 is required to run fully in-person. Consequently, remote (or h
 * **Gradescope**: This is where you will submit Projects 1-3, and the Final Project. Click the `Gradescope` tab on the left to open Edstem.
 * **Youtube**: Lecture recordings can be found on [Bcourses](https://bcourses.berkeley.edu/courses/1535327/external_tools/90481). You'll need to login with your Berkeley email to access them.
 * **PrairieLearn**: Project-4, Pyturis, will be submitted via PrairieLearn. A setup guide can be found [here](https://docs.google.com/document/d/1lbaAihPMPA3h9FGSXOfbQPwM1cqadfWimQbmQjYjcRQ/edit?usp=sharing).
-* **iCliker**: You are required to create a free iClicker account and download the free iClicker app. Then, you should aready be enrolled in CS10. To get credit for attending lecture, please open the app once you’re seated in the lecture hall and mark your attendance. If for some reason you are not enrolled, use this join link.
+* **iCliker**: You are required to create a free iClicker account and download the free iClicker app. Then, you should aready be enrolled in CS10. To get credit for attending lecture, please open the app once you’re seated in the lecture hall and mark your attendance. If for some reason you are not enrolled, use this [join link](https://join.iclicker.com/RXVE).
 
 
 ## Primary Course Components
