@@ -15,8 +15,8 @@
       <!-- WEEK ONE------------------------------------------------------------ -->
       <th>Mon 6/17</th> <!-- Date -->
       <td>1. Logistics + Abstraction<br/>
-      <a href="https://docs.google.com/presentation/d/1q-7AK7nZdKjUsh86har2hYGb1tmONRwTvUChbWNRjKU/edit?usp=sharing">(Slides)</a><br/>
       (Recording)<br/>
+<a href="https://docs.google.com/presentation/d/1q-7AK7nZdKjUsh86har2hYGb1tmONRwTvUChbWNRjKU/edit?usp=sharing">(Slides)</a><br/>
       (Syllabus Handout)</td> <!-- Lecture -->
       <td> <a href="https://docs.google.com/document/d/1A-e8t_ow2SamdUqJC9tfT11-ZaCn351NW3CpD-KvxN8/edit?usp=sharing">1. Welcome to Snap!</a></td> <!-- Lab -->
       <td rowspan="2">1. Control, Scoping, Domain & Range</td> <!-- Discussion -->
@@ -25,8 +25,9 @@
     <tr>
       <th>Tue 6/18</th> <!-- Date -->
       <td>2. Functions + Conditional Logic<br/>
+        (Recording)
       <a href="https://docs.google.com/presentation/d/1wuAYBrkCwBVDoisHp6CJJ0S8OSTFy2F6WjiDOGbCuWY/edit?usp=sharing">(Slides)</a><br/>
-      (Recording)</td> 
+      </td> 
       <!-- Lecture -->
       <td><a href="https://docs.google.com/document/d/1ewb7nT9CGZRqnbbYmKWaqXJHDqq6Nn0Y8vNOjgaMrBk/edit?usp=sharing">2. Build Your Own Blocks</a></td> <!-- Lab -->
       <!-- <td></td>--> <!-- Discussion -->
