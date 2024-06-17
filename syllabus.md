@@ -5,7 +5,6 @@ order: 3
 description: >-
     Course policies and information.
 ---
-** UNDER CONSTRUCTION **
 
 # Syllabus
 {:.no_toc}
