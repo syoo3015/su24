@@ -30,7 +30,7 @@
       <!-- Lecture -->
       <td><a href="https://docs.google.com/document/d/1ewb7nT9CGZRqnbbYmKWaqXJHDqq6Nn0Y8vNOjgaMrBk/edit?usp=sharing">2. Build Your Own Blocks</a></td> <!-- Lab -->
       <!-- <td></td>--> <!-- Discussion -->
-      <td>Project 1: Wordle™-lite 
+      <td> <a href="https://docs.google.com/document/d/18BdPXBWy5Mr6DHKeolBRBnC3a-SsA0n6GsMZAHShjto/edit?usp=sharing"> Project 1: Wordle™-lite </a> 
       Released<br/>
       <b>Due (6/24)</b></td> <!-- Assignment -->
     </tr>
