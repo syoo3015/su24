@@ -24,8 +24,7 @@
     <tr>
       <th>Tue 6/18</th> <!-- Date -->
       <td>2. Functions + Conditional Logic<br/>
-        (Recording)
-      <a href="https://docs.google.com/presentation/d/1wuAYBrkCwBVDoisHp6CJJ0S8OSTFy2F6WjiDOGbCuWY/edit?usp=sharing">(Slides)</a><br/>
+<a href="https://bcourses.berkeley.edu/courses/1535327/pages/lecture-2-functions-+-conditional-logic">(Recording)</a>      <a href="https://docs.google.com/presentation/d/1wuAYBrkCwBVDoisHp6CJJ0S8OSTFy2F6WjiDOGbCuWY/edit?usp=sharing">(Slides)</a><br/>
       </td> 
       <!-- Lecture -->
       <td><a href="https://docs.google.com/document/d/1ewb7nT9CGZRqnbbYmKWaqXJHDqq6Nn0Y8vNOjgaMrBk/edit?usp=sharing">2. Build Your Own Blocks</a></td> <!-- Lab -->
