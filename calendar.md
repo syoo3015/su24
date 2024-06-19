@@ -17,7 +17,8 @@
       <td>1. Logistics + Abstraction<br/>
       (Recording)<br/>
       <a href="https://docs.google.com/presentation/d/1q-7AK7nZdKjUsh86har2hYGb1tmONRwTvUChbWNRjKU/edit?usp=sharing">(Slides)</a><br/>
-      <a href="https://www.gradescope.com/courses/782967/assignments/4583750">(Lecture Quiz)</td> <!-- Lecture -->
+      <a href="https://www.gradescope.com/courses/782967/assignments/4583750">(Lecture Quiz)</td> 
+      <!-- Lecture -->
       <td> <a href="https://docs.google.com/document/d/1A-e8t_ow2SamdUqJC9tfT11-ZaCn351NW3CpD-KvxN8/edit?usp=sharing">1. Welcome to Snap!</a></td> <!-- Lab -->
       <td rowspan="2">1. Control, Scoping, Domain & Range</td> <!-- Discussion -->
       <td><a href="https://docs.google.com/forms/d/e/1FAIpQLSc1_f-mFTj97E_7r9uH7uOWMV4zyawu9PpIWSlXCU3YH7A5Xw/viewform">Presemester Survey Released</a><br/> <b>Due (06/20)</b></td> <!-- Assignment -->
