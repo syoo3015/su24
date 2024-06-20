@@ -47,7 +47,7 @@
       <a href="https://docs.google.com/presentation/d/1OzoaxgrCV7Fs_DO5t_ohLu-rXJHedpKOJXAAxw95_-4/edit?usp=sharing">(Slides)</a><br/>
       <a href="https://www.gradescope.com/courses/782967/assignments/4594552">(Lecture Quiz)</a> 
       <!-- Lecture -->
-      <td>Lab 3. Conditionals, Reporters, Testing</td> <!-- Lab -->
+      <td><a href="https://docs.google.com/document/d/1NkU9MzRESC0F1l3A520-F2AtSnf3rheOFxvUEGXd4F8/edit?usp=sharing">Lab 3. Conditionals, Reporters, Testing</a></td> <!-- Lab -->
       <!-- <td></td> Discussion -->
       <td><a href="https://forms.gle/cVvfxZn1tx4b6hV1A">Pre-semester Survey Due</a> </td> <!-- Assignment -->
     <tr>
