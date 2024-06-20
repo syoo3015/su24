@@ -17,7 +17,7 @@
       <td>Lec 1. Logistics + Abstraction<br/>
       <a href="https://drive.google.com/file/d/1lnKP4kogJCbspflOa1M68w-0I_0kmfEL/view?usp=drive_link">(Recording)</a><br/>
       <a href="https://docs.google.com/presentation/d/1q-7AK7nZdKjUsh86har2hYGb1tmONRwTvUChbWNRjKU/edit?usp=sharing">(Slides)</a><br/>
-      <a href="https://www.gradescope.com/courses/782967/assignments/4583750">(Lecture Quiz)</td> <!-- Lecture -->
+      <a href="https://www.gradescope.com/courses/782967/assignments/4583750">(Lecture Quiz) <!-- Lecture -->
       <td> <a href="https://docs.google.com/document/d/1A-e8t_ow2SamdUqJC9tfT11-ZaCn351NW3CpD-KvxN8/edit?usp=sharing">Lab 1. Welcome to Lab!</a></td> <!-- Lab -->
       <td rowspan="2"><a href="https://docs.google.com/document/d/1Xp6E44WgCA06agDyrZGJ2Bmwn57j1DQk/edit?usp=sharing&ouid=113310664124216515894&rtpof=true&sd=true"> 1. Welcome to Snap!</a></td> <!-- Discussion -->
       <td><a href="https://docs.google.com/forms/d/e/1FAIpQLSc1_f-mFTj97E_7r9uH7uOWMV4zyawu9PpIWSlXCU3YH7A5Xw/viewform">Presemester Survey Released</a><br/> <b>Due (06/20)</b></td> <!-- Assignment -->
@@ -27,13 +27,12 @@
       <a href="https://drive.google.com/file/d/1h9hkAYZ3aIKo9zS-KBB4WUSwwG3I_K4J/view?usp=drive_link">(Recording)</a><br/>      
       <a href="https://docs.google.com/presentation/d/1wuAYBrkCwBVDoisHp6CJJ0S8OSTFy2F6WjiDOGbCuWY/edit?usp=sharing">(Slides)</a><br/>
       <a href="https://www.gradescope.com/courses/782967/assignments/4589591">(Lecture Quiz)
-      </td> <!-- Lecture -->
+      <!-- Lecture -->
       <td><a href="https://docs.google.com/document/d/1ewb7nT9CGZRqnbbYmKWaqXJHDqq6Nn0Y8vNOjgaMrBk/edit?usp=sharing">Lab 2. Build Your Own Blocks</a></td> <!-- Lab -->
       <!-- <td></td>--> <!-- Discussion -->
       <td> <a href="https://docs.google.com/document/d/18BdPXBWy5Mr6DHKeolBRBnC3a-SsA0n6GsMZAHShjto/edit?usp=sharing"> Project 1: Wordle™-lite </a> 
       Released<br/>
       <b>Due (6/24)</b></td> <!-- Assignment -->
-    </tr>
     <tr>
       <th>Wed 6/19 </th> <!-- Date -->
       <td>No Class!</td>        <!-- Lecture -->
@@ -51,7 +50,6 @@
       <td>Lab 3. Conditionals, Reporters, Testing</td> <!-- Lab -->
       <!-- <td></td> Discussion -->
       <td><a href="https://forms.gle/cVvfxZn1tx4b6hV1A">Pre-semester Survey Due</a> </td> <!-- Assignment -->
-    </tr>
     <tr>
       <th>Fri 6/21</th> <!-- Date -->
       <td>No Lecture</td> <!-- Lecture -->
