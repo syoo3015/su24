@@ -37,7 +37,7 @@
       <th>Wed 6/19 </th> <!-- Date -->
       <td>No Class!</td>        <!-- Lecture -->
       <td>No Class!</td> <!-- Lab -->
-      <td rowspan="2">Disc 2. Lists & HOFs, Iteration, Scoping</td> <!-- Discussion -->
+      <td rowspan="2"><a href="https://docs.google.com/document/d/1f7Mbk-OfVnlfZTIgcjlwg0djsm4xlCq_/edit?usp=sharing&ouid=113310664124216515894&rtpof=true&sd=true"> 2. Boolean Operators and Truth Tables </a></td> <!-- Discussion -->
       <td></td> <!-- Assignments -->
     </tr>
     <tr>
