@@ -160,7 +160,7 @@ For both the midterm and final, there is a retake. The retake is designed for yo
 | Week             | Date     | Time     |  Location  |
 | :----:           | :----:   | :----:   |  :----:    | 
 | Week-1           | FRI 6/21 | 2-6PM    |  SDH-200   |
-| Week-2           | MON 6/28 | 2-6PM    |  SDH-200  |
+| Week-2           | FRI 6/28 | 2-6PM    |  SDH-200  |
 | Week-4           | MON 7/10 | 11AM-3PM |  SDH-200   |
 | Week-6           | WED 7/24 | 11AM-3PM |  SDH-200   |
 | Week-7           | FRI 8/02 | 2-6PM    |  SDH-200  |

@@ -17,7 +17,7 @@
       <td>Lec 1. Logistics + Abstraction<br/>
       <a href="https://bcourses.berkeley.edu/courses/1535327/pages/lecture-1-welcome-+-abstraction">(Recording)</a><br/>
       <a href="https://docs.google.com/presentation/d/1q-7AK7nZdKjUsh86har2hYGb1tmONRwTvUChbWNRjKU/edit?usp=sharing">(Slides)</a><br/>
-      <a href="https://www.gradescope.com/courses/782967/assignments/4583750">(Lecture Quiz) <!-- Lecture -->
+      <a href="https://www.gradescope.com/courses/782967/assignments/4583750">(Lecture Quiz)</td> <!-- Lecture -->
       <td> <a href="https://docs.google.com/document/d/1A-e8t_ow2SamdUqJC9tfT11-ZaCn351NW3CpD-KvxN8/edit?usp=sharing">Lab 1. Welcome to Lab!</a></td> <!-- Lab -->
       <td rowspan="2"><a href="https://docs.google.com/document/d/1Xp6E44WgCA06agDyrZGJ2Bmwn57j1DQk/edit?usp=sharing&ouid=113310664124216515894&rtpof=true&sd=true"> 1. Welcome to Snap!</a></td> <!-- Discussion -->
       <td><a href="https://docs.google.com/forms/d/e/1FAIpQLSc1_f-mFTj97E_7r9uH7uOWMV4zyawu9PpIWSlXCU3YH7A5Xw/viewform">Presemester Survey Released</a><br/> <b>Due (06/20)</b></td> <!-- Assignment -->
@@ -43,12 +43,14 @@
     </tr>
     <tr>
       <th>Thur 6/20 </th> <!-- Date -->
-      <td>3. Iteration + Scoping<br/>
+      <td>Lec 3. Scope + Iteration<br/>
       (Recording)<br/>
-      <a href="">(Slides)</a></td> <!-- Lecture -->
-      <td> 3. Conditionals, Reporters, Testing</td> <!-- Lab -->
+      <a href="https://docs.google.com/presentation/d/1OzoaxgrCV7Fs_DO5t_ohLu-rXJHedpKOJXAAxw95_-4/edit?usp=sharing">(Slides)</a><br/>
+      <a href="https://www.gradescope.com/courses/782967/assignments/4594552">(Lecture Quiz)</a> 
+      <!-- Lecture -->
+      <td>Lab 3. Conditionals, Reporters, Testing</td> <!-- Lab -->
       <!-- <td></td> Discussion -->
-      <td> Pre-semester Survey Due </td> <!-- Assignment -->
+      <td><a href="https://forms.gle/cVvfxZn1tx4b6hV1A">Pre-semester Survey Due</a> </td> <!-- Assignment -->
     </tr>
     <tr>
       <th>Fri 6/21</th> <!-- Date -->
