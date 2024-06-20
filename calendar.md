@@ -14,20 +14,21 @@
       <td rowspan=5>1</td> <!-- Week Number -->
       <!-- WEEK ONE------------------------------------------------------------ -->
       <th>Mon 6/17</th> <!-- Date -->
-      <td>1. Logistics + Abstraction<br/>
+      <td>Lec 1. Logistics + Abstraction<br/>
       <a href="https://bcourses.berkeley.edu/courses/1535327/pages/lecture-1-welcome-+-abstraction">(Recording)</a><br/>
       <a href="https://docs.google.com/presentation/d/1q-7AK7nZdKjUsh86har2hYGb1tmONRwTvUChbWNRjKU/edit?usp=sharing">(Slides)</a><br/>
       <a href="https://www.gradescope.com/courses/782967/assignments/4583750">(Lecture Quiz) <!-- Lecture -->
-      <td> <a href="https://docs.google.com/document/d/1A-e8t_ow2SamdUqJC9tfT11-ZaCn351NW3CpD-KvxN8/edit?usp=sharing">1. Welcome to Lab!</a></td> <!-- Lab -->
+      <td> <a href="https://docs.google.com/document/d/1A-e8t_ow2SamdUqJC9tfT11-ZaCn351NW3CpD-KvxN8/edit?usp=sharing">Lab 1. Welcome to Lab!</a></td> <!-- Lab -->
       <td rowspan="2"><a href="https://docs.google.com/document/d/1Xp6E44WgCA06agDyrZGJ2Bmwn57j1DQk/edit?usp=sharing&ouid=113310664124216515894&rtpof=true&sd=true"> 1. Welcome to Snap!</a></td> <!-- Discussion -->
       <td><a href="https://docs.google.com/forms/d/e/1FAIpQLSc1_f-mFTj97E_7r9uH7uOWMV4zyawu9PpIWSlXCU3YH7A5Xw/viewform">Presemester Survey Released</a><br/> <b>Due (06/20)</b></td> <!-- Assignment -->
     <tr>
       <th>Tue 6/18</th> <!-- Date -->
-      <td>2. Functions + Conditional Logic<br/>
-<a href="https://bcourses.berkeley.edu/courses/1535327/pages/lecture-2-functions-+-conditional-logic">(Recording)</a>      <a href="https://docs.google.com/presentation/d/1wuAYBrkCwBVDoisHp6CJJ0S8OSTFy2F6WjiDOGbCuWY/edit?usp=sharing">(Slides)</a><br/>
-      </td> 
-      <!-- Lecture -->
-      <td><a href="https://docs.google.com/document/d/1ewb7nT9CGZRqnbbYmKWaqXJHDqq6Nn0Y8vNOjgaMrBk/edit?usp=sharing">2. Build Your Own Blocks</a></td> <!-- Lab -->
+      <td>Lec 2. Functions + Conditional Logic<br/>
+      <a href="https://bcourses.berkeley.edu/courses/1535327/pages/lecture-2-functions-+-conditional-logic">(Recording)</a><br/>      
+      <a href="https://docs.google.com/presentation/d/1wuAYBrkCwBVDoisHp6CJJ0S8OSTFy2F6WjiDOGbCuWY/edit?usp=sharing">(Slides)</a><br/>
+      <a href="https://www.gradescope.com/courses/782967/assignments/4589591">(Lecture Quiz)
+      </td> <!-- Lecture -->
+      <td><a href="https://docs.google.com/document/d/1ewb7nT9CGZRqnbbYmKWaqXJHDqq6Nn0Y8vNOjgaMrBk/edit?usp=sharing">Lab 2. Build Your Own Blocks</a></td> <!-- Lab -->
       <!-- <td></td>--> <!-- Discussion -->
       <td> <a href="https://docs.google.com/document/d/18BdPXBWy5Mr6DHKeolBRBnC3a-SsA0n6GsMZAHShjto/edit?usp=sharing"> Project 1: Wordle™-lite </a> 
       Released<br/>
@@ -37,14 +38,14 @@
       <th>Wed 6/19 </th> <!-- Date -->
       <td>No Class!</td>        <!-- Lecture -->
       <td>No Class!</td> <!-- Lab -->
-      <td rowspan="2">2. Lists & HOFs, Iteration, Scoping</td> <!-- Discussion -->
+      <td rowspan="2">Disc 2. Lists & HOFs, Iteration, Scoping</td> <!-- Discussion -->
       <td></td> <!-- Assignments -->
     </tr>
     <tr>
       <th>Thur 6/20 </th> <!-- Date -->
       <td>3. Iteration + Scoping<br/>
       (Recording)<br/>
-      <a href="https://docs.google.com/presentation/d/1wuAYBrkCwBVDoisHp6CJJ0S8OSTFy2F6WjiDOGbCuWY/edit?usp=sharing">(Slides)</a></td>
+      <a href="">(Slides)</a></td> <!-- Lecture -->
       <td> 3. Conditionals, Reporters, Testing</td> <!-- Lab -->
       <!-- <td></td> Discussion -->
       <td> Pre-semester Survey Due </td> <!-- Assignment -->
