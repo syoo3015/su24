@@ -15,7 +15,7 @@
       <!-- WEEK ONE------------------------------------------------------------ -->
       <th>Mon 6/17</th> <!-- Date -->
       <td>Lec 1. Logistics + Abstraction<br/>
-      <a href="https://bcourses.berkeley.edu/courses/1535327/pages/lecture-1-welcome-+-abstraction">(Recording)</a><br/>
+      <a href="https://drive.google.com/file/d/1lnKP4kogJCbspflOa1M68w-0I_0kmfEL/view?usp=drive_link">(Recording)</a><br/>
       <a href="https://docs.google.com/presentation/d/1q-7AK7nZdKjUsh86har2hYGb1tmONRwTvUChbWNRjKU/edit?usp=sharing">(Slides)</a><br/>
       <a href="https://www.gradescope.com/courses/782967/assignments/4583750">(Lecture Quiz)</td> <!-- Lecture -->
       <td> <a href="https://docs.google.com/document/d/1A-e8t_ow2SamdUqJC9tfT11-ZaCn351NW3CpD-KvxN8/edit?usp=sharing">Lab 1. Welcome to Lab!</a></td> <!-- Lab -->
@@ -24,7 +24,7 @@
     <tr>
       <th>Tue 6/18</th> <!-- Date -->
       <td>Lec 2. Functions + Conditional Logic<br/>
-      <a href="https://bcourses.berkeley.edu/courses/1535327/pages/lecture-2-functions-+-conditional-logic">(Recording)</a><br/>      
+      <a href="https://drive.google.com/file/d/1h9hkAYZ3aIKo9zS-KBB4WUSwwG3I_K4J/view?usp=drive_link">(Recording)</a><br/>      
       <a href="https://docs.google.com/presentation/d/1wuAYBrkCwBVDoisHp6CJJ0S8OSTFy2F6WjiDOGbCuWY/edit?usp=sharing">(Slides)</a><br/>
       <a href="https://www.gradescope.com/courses/782967/assignments/4589591">(Lecture Quiz)
       </td> <!-- Lecture -->
