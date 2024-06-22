@@ -7,7 +7,7 @@ nav_order: 4
 
 # Discussion
 
-This page will be updated with discussion Worksheets and Solutions throughout the semester. Recordings, when available, will also be posted here.
+This page will be updated with discussion Worksheets and Solutions throughout the semester. Unfortunately, there is no recording this summer.
 <style>
   table {
     width: 100%;
@@ -36,7 +36,7 @@ This page will be updated with discussion Worksheets and Solutions throughout th
       <td>Welcome to Snap<em>!</em></td>
       <td><a href="https://docs.google.com/document/d/1Xp6E44WgCA06agDyrZGJ2Bmwn57j1DQk/edit?usp=sharing&ouid=113310664124216515894&rtpof=true&sd=true"> Worksheet</a></td>
       <td><a href="https://docs.google.com/document/d/1gZRoeB7sD-Zx5z8bjQiRqxT8U5fdqA5b/edit?usp=sharing&ouid=100628398912857125629&rtpof=true&sd=true">Solutions</a></td>
-      <td>Recording</td>
+      <td>No Recording</td>
       <td><a href="https://docs.google.com/presentation/d/1SE-XulujMVlRd3e2TcAqcYBDgUWRxbdXD_y0g7fRE5M/edit?usp=sharing"> Slides</a></td>
     </tr> 
     <tr>
@@ -44,8 +44,8 @@ This page will be updated with discussion Worksheets and Solutions throughout th
       <td>Boolean Operators and Truth Tables</td>
       <td><a href="https://docs.google.com/document/d/1f7Mbk-OfVnlfZTIgcjlwg0djsm4xlCq_/edit?usp=sharing&ouid=113310664124216515894&rtpof=true&sd=true"> Worksheet</a></td>
       <td><a href="https://docs.google.com/document/d/1hZfKMy6JBDZHHBpQCyOS7NfvGPbUi9Jg/edit?usp=sharing&ouid=113310664124216515894&rtpof=true&sd=true">Solutions</a></td>
-      <td>Recording</td>
-      <td>Slides</td>
+      <td>No Recording</td>
+      <td><a href="https://drive.google.com/file/d/1F14TiqGswqsUa5ucK-ogUoxBqCw6NQ0h/view?usp=sharing">Annotated Solution</a></td>
     </tr>
      <tr>
       <td>Discussion 3</td>
@@ -92,7 +92,7 @@ This page will be updated with discussion Worksheets and Solutions throughout th
       <td>Midterm Review</td>
       <td>Worksheet</td>
       <td>Solutions</td>
-      <td>NO Recording. See Ed #146</td>
+      <td>NO Recording</td>
       <td>NO Slides</td>
     </tr>
      <tr>
