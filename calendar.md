@@ -61,17 +61,17 @@
     <tr>
       <td rowspan=5>2</td>
       <th>Mon 6/24</th> <!-- Date -->
-      <td>4. Lists + HOFs<br/>
+      <td>Lec 4. Lists + Loops<br/>
       (Recording)<br/>
       (Slides)</td>
        <!-- Lecture -->
-      <td>4. </td> <!-- Lab -->
+      <td>Lab 4. </td> <!-- Lab -->
       <td rowspan="2"></td> <!-- Discussion -->
       <td>Project 1: Wordle™-lite Due</td> <!-- Assignment -->
     </tr>
     <tr>
       <th>Tue 6/25 </th> <!-- Date -->
-      <td>5. Algorithmic Complexity<br/>
+      <td>Lec 5. HOFs + Mutability vs Immutability + List Scoping<br/>
       (Recording)<br/>
       (Slides)</td>
       <!-- Lecture -->
@@ -82,7 +82,7 @@
     </tr>
     <tr>
       <th>Wed 6/26 </th> <!-- Date -->
-      <td>6. <br/>
+      <td>Lec 6. Functions as Data + Lambdas <br/>
       (Recording)<br/>
       (Slides)<br/>
       </td> <!-- Lecture -->
@@ -97,7 +97,7 @@
     </tr>
     <tr>  
       <th>Thur 6/27 </th> <!-- Date -->
-      <td>7. <br/>
+      <td>Lec 7. Nested lists + Number Representation<br/>
        (Recording)<br/>
        (slides)
       </td> <!-- Lecture -->
