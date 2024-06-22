@@ -43,7 +43,7 @@ This page will be updated with discussion Worksheets and Solutions throughout th
       <td>Discussion 2</td>
       <td>Boolean Operators and Truth Tables</td>
       <td><a href="https://docs.google.com/document/d/1f7Mbk-OfVnlfZTIgcjlwg0djsm4xlCq_/edit?usp=sharing&ouid=113310664124216515894&rtpof=true&sd=true"> Worksheet</a></td>
-      <td>Solutions</td>
+      <td><a href="https://docs.google.com/document/d/1hZfKMy6JBDZHHBpQCyOS7NfvGPbUi9Jg/edit?usp=sharing&ouid=113310664124216515894&rtpof=true&sd=true">Solutions</a></td>
       <td>Recording</td>
       <td>Slides</td>
     </tr>
