@@ -2,7 +2,7 @@
 name: Victoria Phelps (she/they)
 role: Instructor
 email: jedi_force@
-website: linkedin.com/in/victoria-phelps-a57a9476/
+website: https://linkedin.com/in/victoria-phelps-a57a9476/
 photo: victoria.png
 ---
 Hello everyone! I'm thrilled to be your co-instructor this summer. I'm currently a student at Berkeley (so you don't need to call me professor). Additionally, I work for SAP, the company that sponsors the programming language Snap!, which we'll be using throughout the semester. My passion lies in research, particularly in software development and computer science (CS) education. When I first took this course, I had no programming experience, but I fell in love with it and became a dedicated advocate for CS10 and Snap!.
