@@ -1,16 +1,8 @@
 ---
 name: Nahee Jeong
 role: Tutor
-email: naheejeong@
-photo: Nahee_Jeong.png
+email: naheejeong@berkeley.edu
+website: www.linkedin.com/in/naheejeong
+photo: nahee.png
 ---
-Hi everyone! I'm Nahee, a freshman intending to study CS. I'm super excited to be an AI for CS10 - a course that turned my life around! BJC opened up an exciting world of computing for me, sparking my first true passion. I hope this course will inspire you as much as it did me. Looking forward to meeting you all!
- 
-
-
-
-
-
-
-
-
+Hi guys! I’m Nahee, a rising sophomore intending to study computer science. I was an Academic Intern for CS10 last semester, and this is my first time becoming a tutor. Outside of school, I love watching horror movies, writing short stories, and building cute mobile apps. Looking forward to getting to know you all!
