@@ -10,7 +10,7 @@
 </style>
 
 
-<table class="table table-bordered schedule-table">
+<table class="table">
   <thead>
     <tr>
       <th class="center schedule-week-num">Week</th>
