@@ -1,3 +1,15 @@
+<style>
+  table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  th, td {
+    text-align: center;
+    padding: 8px;
+  }
+</style>
+
+
 <table class="table table-bordered schedule-table">
   <thead>
     <tr>
