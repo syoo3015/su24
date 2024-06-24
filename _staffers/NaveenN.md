@@ -1,7 +1,7 @@
 ---
 name: Naveen Nathan
 role: Head TA
-email: naveen.nathan@berkeley.edu
+email: naveen.nathan@
 website: https://www.linkedin.com/in/nathannaveen/
 photo: Naveen_Nathan.jpg
 ---
