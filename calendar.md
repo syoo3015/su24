@@ -75,7 +75,7 @@
       (Recording)<br/>
       (Slides)</td>
       <!-- Lecture -->
-      <td>  </td> <!-- Lab -->
+      <td> Lab 5. Lists + HOFs </td> <!-- Lab -->
       <!-- <td></td>Discussion -->
       <td>Project 2: Spelling Bee 
       Released and <b>Due (07/01)</b></td> <!-- Assignment -->
@@ -86,7 +86,7 @@
       (Recording)<br/>
       (Slides)<br/>
       </td> <!-- Lecture -->
-      <td>6. </td>
+      <td>Lab 6. HOFs as Data </td>
        <!-- Lab -->
       <td rowspan="2">3. Algorithms & Algorithmic Complexity<br/>
       <!-- Worksheet<br/>
@@ -101,7 +101,7 @@
        (Recording)<br/>
        (slides)
       </td> <!-- Lecture -->
-      <td>7. Recursive Reporters </td> <!-- Lab -->
+      <td>Lab 7. Boards </td> <!-- Lab -->
       <!-- <td></td> Discussion -->
       <td></td> <!-- Assignment -->
     </tr>
