@@ -23,7 +23,7 @@
   </thead>
   <tbody class="content">
     <tr>
-      <td rowspan=5>Week 1</td> <!-- Week Number -->
+      <td rowspan=5 style="color: d3d3d3">Week 1</td> <!-- Week Number -->
       <!-- WEEK ONE------------------------------------------------------------ -->
       <th>Mon 6/17</th> <!-- Date -->
       <td>Lec 1. Logistics + Abstraction<br/>
