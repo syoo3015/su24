@@ -29,7 +29,7 @@
       <td>Lec 1. Logistics + Abstraction<br/>
       <a href="https://drive.google.com/file/d/1lnKP4kogJCbspflOa1M68w-0I_0kmfEL/view?usp=drive_link">(Recording)</a><br/>
       <a href="https://docs.google.com/presentation/d/1q-7AK7nZdKjUsh86har2hYGb1tmONRwTvUChbWNRjKU/edit?usp=sharing">(Slides)</a><br/>
-      <a href="https://www.gradescope.com/courses/782967/assignments/4583750">(Lecture Quiz)</td> <!-- Lecture -->
+      <a href="https://www.gradescope.com/courses/782967/assignments/4583750">(Lecture Quiz) <!-- Lecture -->
       <td> <a href="https://docs.google.com/document/d/1A-e8t_ow2SamdUqJC9tfT11-ZaCn351NW3CpD-KvxN8/edit?usp=sharing">Lab 1. Welcome to Lab!</a></td> <!-- Lab -->
       <td rowspan="2"><a href="https://docs.google.com/document/d/1Xp6E44WgCA06agDyrZGJ2Bmwn57j1DQk/edit?usp=sharing&ouid=113310664124216515894&rtpof=true&sd=true"> 1. Welcome to Snap!</a></td> <!-- Discussion -->
       <td><a href="https://docs.google.com/forms/d/e/1FAIpQLSc1_f-mFTj97E_7r9uH7uOWMV4zyawu9PpIWSlXCU3YH7A5Xw/viewform">Presemester Survey Released</a><br/> <b>Due (06/20)</b></td> <!-- Assignment -->
@@ -39,18 +39,17 @@
       <a href="https://drive.google.com/file/d/1h9hkAYZ3aIKo9zS-KBB4WUSwwG3I_K4J/view?usp=drive_link">(Recording)</a><br/>      
       <a href="https://docs.google.com/presentation/d/1wuAYBrkCwBVDoisHp6CJJ0S8OSTFy2F6WjiDOGbCuWY/edit?usp=sharing">(Slides)</a><br/>
       <a href="https://www.gradescope.com/courses/782967/assignments/4589591">(Lecture Quiz)
-      </td> <!-- Lecture -->
+      <!-- Lecture -->
       <td><a href="https://docs.google.com/document/d/1ewb7nT9CGZRqnbbYmKWaqXJHDqq6Nn0Y8vNOjgaMrBk/edit?usp=sharing">Lab 2. Build Your Own Blocks</a></td> <!-- Lab -->
       <!-- <td></td>--> <!-- Discussion -->
       <td> <a href="https://docs.google.com/document/d/18BdPXBWy5Mr6DHKeolBRBnC3a-SsA0n6GsMZAHShjto/edit?usp=sharing"> Project 1: Wordle™-lite </a> 
       Released<br/>
       <b>Due (6/24)</b></td> <!-- Assignment -->
-    </tr>
     <tr>
       <th>Wed 6/19 </th> <!-- Date -->
       <td>No Class!</td>        <!-- Lecture -->
       <td>No Class!</td> <!-- Lab -->
-      <td rowspan="2">Disc 2. Lists & HOFs, Iteration, Scoping</td> <!-- Discussion -->
+      <td rowspan="2"><a href="https://docs.google.com/document/d/1f7Mbk-OfVnlfZTIgcjlwg0djsm4xlCq_/edit?usp=sharing&ouid=113310664124216515894&rtpof=true&sd=true"> 2. Boolean Operators and Truth Tables </a></td> <!-- Discussion -->
       <td></td> <!-- Assignments -->
     </tr>
     <tr>
@@ -60,10 +59,9 @@
       <a href="https://docs.google.com/presentation/d/1OzoaxgrCV7Fs_DO5t_ohLu-rXJHedpKOJXAAxw95_-4/edit?usp=sharing">(Slides)</a><br/>
       <a href="https://www.gradescope.com/courses/782967/assignments/4594552">(Lecture Quiz)</a> 
       <!-- Lecture -->
-      <td>Lab 3. Conditionals, Reporters, Testing</td> <!-- Lab -->
+      <td><a href="https://docs.google.com/document/d/1NkU9MzRESC0F1l3A520-F2AtSnf3rheOFxvUEGXd4F8/edit?usp=sharing">Lab 3. Conditionals, Reporters, Testing</a></td> <!-- Lab -->
       <!-- <td></td> Discussion -->
       <td><a href="https://forms.gle/cVvfxZn1tx4b6hV1A">Pre-semester Survey Due</a> </td> <!-- Assignment -->
-    </tr>
     <tr>
       <th>Fri 6/21</th> <!-- Date -->
       <td>No Lecture</td> <!-- Lecture -->
@@ -75,32 +73,33 @@
     <tr>
       <td rowspan=5>2</td>
       <th>Mon 6/24</th> <!-- Date -->
-      <td>4. Lists + HOFs<br/>
+      <td>Lec 4. Lists + Loops<br/>
       (Recording)<br/>
-      (Slides)</td>
+      <a href="https://docs.google.com/presentation/d/1PA1S8kBpizPfYrRQGcsQvB9Bs0LfroHlOAAISXyC0vE/edit?usp=sharing">(Slides)</a><br/>
+      <a href="https://www.gradescope.com/courses/782967/assignments/4601776">(Lecture Quiz)</a></td>
        <!-- Lecture -->
-      <td>4. </td> <!-- Lab -->
+      <td><a href="https://docs.google.com/document/d/1tSalQ3FU2pzuBn8eIS8LraeTva0gYjDe4wPZPffUhCM/edit?usp=drive_link">Lab 4. Lists + Loops</a></td> <!-- Lab -->
       <td rowspan="2"></td> <!-- Discussion -->
       <td>Project 1: Wordle™-lite Due</td> <!-- Assignment -->
     </tr>
     <tr>
       <th>Tue 6/25 </th> <!-- Date -->
-      <td>5. Algorithmic Complexity<br/>
+      <td>Lec 5. HOFs + Mutability vs Immutability + List Scoping<br/>
       (Recording)<br/>
-      (Slides)</td>
+      <a href="https://docs.google.com/presentation/d/1LNmaAV1wUKUSQIl62aPQRVzAXe5AVjtc0G8lHoFU7j0/edit?usp=sharing">(Slides)</a></td>
       <!-- Lecture -->
-      <td>  </td> <!-- Lab -->
+      <td> Lab 5. Lists + HOFs </td> <!-- Lab -->
       <!-- <td></td>Discussion -->
       <td>Project 2: Spelling Bee 
       Released and <b>Due (07/01)</b></td> <!-- Assignment -->
     </tr>
     <tr>
       <th>Wed 6/26 </th> <!-- Date -->
-      <td>6. <br/>
+      <td>Lec 6. Functions as Data + Lambdas <br/>
       (Recording)<br/>
       (Slides)<br/>
       </td> <!-- Lecture -->
-      <td>6. </td>
+      <td>Lab 6. HOFs as Data </td>
        <!-- Lab -->
       <td rowspan="2">3. Algorithms & Algorithmic Complexity<br/>
       <!-- Worksheet<br/>
@@ -111,11 +110,11 @@
     </tr>
     <tr>  
       <th>Thur 6/27 </th> <!-- Date -->
-      <td>7. <br/>
+      <td>Lec 7. Nested lists + Number Representation<br/>
        (Recording)<br/>
        (slides)
       </td> <!-- Lecture -->
-      <td>7. Recursive Reporters </td> <!-- Lab -->
+      <td>Lab 7. Boards </td> <!-- Lab -->
       <!-- <td></td> Discussion -->
       <td></td> <!-- Assignment -->
     </tr>
