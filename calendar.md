@@ -63,7 +63,8 @@
       <th>Mon 6/24</th> <!-- Date -->
       <td>Lec 4. Lists + Loops<br/>
       (Recording)<br/>
-      (Slides)</td>
+      <a href="https://docs.google.com/presentation/d/1PA1S8kBpizPfYrRQGcsQvB9Bs0LfroHlOAAISXyC0vE/edit?usp=sharing">(Slides)</a>
+      <a href="https://www.gradescope.com/courses/782967/assignments/4601776">(Lecture Quiz)</a></td>
        <!-- Lecture -->
       <td>Lab 4. </td> <!-- Lab -->
       <td rowspan="2"></td> <!-- Discussion -->
