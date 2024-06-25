@@ -55,7 +55,7 @@
     <tr>
       <th>Thur 6/20 </th> <!-- Date -->
       <td>Lec 3. Scope + Iteration<br/>
-      (Recording)<br/>
+      <a href="https://drive.google.com/file/d/1e2JEVlZCnNwaWIO_P1lWZlFm8Gwi0L6C/view?usp=drive_link">(Recording)</a><br/>
       <a href="https://docs.google.com/presentation/d/1OzoaxgrCV7Fs_DO5t_ohLu-rXJHedpKOJXAAxw95_-4/edit?usp=sharing">(Slides)</a><br/>
       <a href="https://www.gradescope.com/courses/782967/assignments/4594552">(Lecture Quiz)</a></td> 
       <!-- Lecture -->
@@ -74,7 +74,7 @@
       <td rowspan=5>Week 2</td>
       <th>Mon 6/24</th> <!-- Date -->
       <td>Lec 4. Lists + Loops<br/>
-      (Recording)<br/>
+      <a href="https://drive.google.com/file/d/1nS7jyyCoD33fK3hkRe1sdZfyDTMUAYAn/view?usp=drive_link">(Recording)</a><br/>
       <a href="https://docs.google.com/presentation/d/1PA1S8kBpizPfYrRQGcsQvB9Bs0LfroHlOAAISXyC0vE/edit?usp=sharing">(Slides)</a><br/>
       <a href="https://www.gradescope.com/courses/782967/assignments/4601776">(Lecture Quiz)</a></td>
        <!-- Lecture -->
