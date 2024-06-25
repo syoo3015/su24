@@ -1,4 +1,16 @@
-<table class="table table-bordered schedule-table">
+<style>
+  table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  th, td {
+    text-align: center;
+    padding: 8px;
+  }
+</style>
+
+
+<table class="table">
   <thead>
     <tr>
       <th class="center schedule-week-num">Week</th>
@@ -9,9 +21,9 @@
       <th>Assignment</th>
     </tr>
   </thead>
-  <tbody class="js-scheduleContent">
+  <tbody class="content">
     <tr>
-      <td rowspan=5>1</td> <!-- Week Number -->
+      <td rowspan=5 style="color: d3d3d3">Week 1</td> <!-- Week Number -->
       <!-- WEEK ONE------------------------------------------------------------ -->
       <th>Mon 6/17</th> <!-- Date -->
       <td>Lec 1. Logistics + Abstraction<br/>
@@ -45,7 +57,7 @@
       <td>Lec 3. Scope + Iteration<br/>
       (Recording)<br/>
       <a href="https://docs.google.com/presentation/d/1OzoaxgrCV7Fs_DO5t_ohLu-rXJHedpKOJXAAxw95_-4/edit?usp=sharing">(Slides)</a><br/>
-      <a href="https://www.gradescope.com/courses/782967/assignments/4594552">(Lecture Quiz)</a> 
+      <a href="https://www.gradescope.com/courses/782967/assignments/4594552">(Lecture Quiz)</a></td> 
       <!-- Lecture -->
       <td><a href="https://docs.google.com/document/d/1NkU9MzRESC0F1l3A520-F2AtSnf3rheOFxvUEGXd4F8/edit?usp=sharing">Lab 3. Conditionals, Reporters, Testing</a></td> <!-- Lab -->
       <!-- <td></td> Discussion -->
@@ -59,7 +71,7 @@
     </tr>
     <!-- WEEK TWO------------------------------------------------------------ -->
     <tr>
-      <td rowspan=5>2</td>
+      <td rowspan=5>Week 2</td>
       <th>Mon 6/24</th> <!-- Date -->
       <td>Lec 4. Lists + Loops<br/>
       (Recording)<br/>
@@ -116,7 +128,7 @@
     </tr>
     <!-- WEEK THREE------------------------------------------------------------ -->
     <tr>
-      <td rowspan=5>3</td>
+      <td rowspan=5>Week 3</td>
       <th>Mon 7/1 </th> <!-- Date -->
       <td>8. <br/>
       (Recording)<br/>
@@ -168,7 +180,7 @@
     </tr>
     <!-- WEEK FOUR------------------------------------------------------------ -->
     <tr>
-      <td rowspan=5>4</td>
+      <td rowspan=5>Week 4</td>
       <th>Mon 7/8</th> <!-- Date -->
       <td>11. <br/>
       (Recording) <br/> 
@@ -228,7 +240,7 @@
     </tr>
     <!-- WEEK FIVE ------------------------------------------------------------ -->
     <tr>
-      <td rowspan=5>5</td>
+      <td rowspan=5>Week 5</td>
       <th>Mon 7/15</th> <!-- Date -->
       <td>15. <br/>
       (Recording)<br/>
@@ -300,7 +312,7 @@
     </tr>
     <!-- WEEK SIX ------------------------------------------------------------ -->
     <tr>
-      <td rowspan=5>6</td>
+      <td rowspan=5>Week 6</td>
       <th>Mon 7/22</th> <!-- Date -->
       <td>19. <br/>
       (Recording)<br/>
@@ -364,7 +376,7 @@
     </tr>
     <!-- WEEK SEVEN ------------------------------------------------------------ -->
     <tr>
-      <td rowspan=5>7</td>
+      <td rowspan=5>Week 7</td>
       <th>Mon 7/29</th> <!-- Date -->
       <td>23.<br/>
       (Recording)<br/>
@@ -427,7 +439,7 @@
     </tr>
     <!-- WEEK EIGHT ------------------------------------------------------------ -->
     <tr>
-      <td rowspan=5>8</td>
+      <td rowspan=5>Week 8</td>
       <th>Mon 8/05</th> <!-- Date -->
       <td rowspan="5"></td> <!-- Lecture -->
       <td rowspan="5"></td> <!-- Lab -->
