@@ -77,7 +77,7 @@
       <a href="https://docs.google.com/presentation/d/1LNmaAV1wUKUSQIl62aPQRVzAXe5AVjtc0G8lHoFU7j0/edit?usp=sharing">(Slides)</a><br/>
       <a href="https://www.gradescope.com/courses/782967/assignments/4593432">(Lecture Quiz)</a></td>
       <!-- Lecture -->
-      <td> Lab 5. Lists + HOFs </td> <!-- Lab -->
+      <td> <a href="https://docs.google.com/document/d/1UBSwk2pluznTyzE2tj1keDubTy3xUVD9TvAyu9PtboY/edit?usp=drive_link">Lab 5. Lists + HOFs</a> </td> <!-- Lab -->
       <!-- <td></td>Discussion -->
       <td>Project 2: Spelling Bee 
       Released and <b>Due (07/01)</b></td> <!-- Assignment -->
@@ -88,7 +88,7 @@
       (Recording)<br/>
       (Slides)<br/>
       </td> <!-- Lecture -->
-      <td>Lab 6. HOFs as Data </td>
+      <td><a href="https://docs.google.com/document/d/1iC-9COcumR8FDQmSAsg19u-iN1hzr8YjPiq14t4k4ao/edit?usp=sharing">Lab 6. HOFs as Data</a> </td>
        <!-- Lab -->
       <td rowspan="2">3. Algorithms & Algorithmic Complexity<br/>
       <!-- Worksheet<br/>
