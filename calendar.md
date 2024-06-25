@@ -74,7 +74,8 @@
       <th>Tue 6/25 </th> <!-- Date -->
       <td>Lec 5. HOFs + Mutability vs Immutability + List Scoping<br/>
       (Recording)<br/>
-      <a href="https://docs.google.com/presentation/d/1LNmaAV1wUKUSQIl62aPQRVzAXe5AVjtc0G8lHoFU7j0/edit?usp=sharing">(Slides)</a></td>
+      <a href="https://docs.google.com/presentation/d/1LNmaAV1wUKUSQIl62aPQRVzAXe5AVjtc0G8lHoFU7j0/edit?usp=sharing">(Slides)</a><br/>
+      <a href="https://www.gradescope.com/courses/782967/assignments/4593432">(Lecture Quiz)</a></td>
       <!-- Lecture -->
       <td> Lab 5. Lists + HOFs </td> <!-- Lab -->
       <!-- <td></td>Discussion -->
