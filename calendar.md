@@ -130,11 +130,11 @@
     <tr>
       <td rowspan=5>Week 3</td>
       <th>Mon 7/1 </th> <!-- Date -->
-      <td>8. <br/>
+      <td>Lec 8. Algorithms + Algorithmic Complexity <br/>
       (Recording)<br/>
        (slides)
       </td> <!-- Lecture -->
-      <td>8.
+      <td>
       </td> <!-- Lab -->
       <td rowspan="2">4. Recursion I</td> <!-- Discussion -->
       <td> 
@@ -143,14 +143,14 @@
     </tr>
     <tr>
       <th>Tue 7/2</th> <!-- Date -->
-      <td>No Lecture</td> <!-- Lecture -->
+      <td>Lec 9. Linear Recursion</td> <!-- Lecture -->
       <td>No Lab</td> <!-- Lab -->
       <!-- <td></td>Discussion -->
       <td></td> <!-- Assignment -->
     </tr>
     <tr>
       <th>Wed 7/3 </th> <!-- Date -->
-      <td>9. <br/>
+      <td>Lec 10. Fractal Recursion <br/>
       (Recording)<br/> 
       (Slides)
        </td> <!-- Lecture -->
@@ -161,7 +161,7 @@
     </tr>
     <tr>
       <th>Thur 7/4</th> <!-- Date -->
-      <td>10. <br/>
+      <td>No Lecture<br/>
       (Recording)<br/> 
       (Slides)
       </td> <!-- Lecture -->
@@ -182,7 +182,7 @@
     <tr>
       <td rowspan=5>Week 4</td>
       <th>Mon 7/8</th> <!-- Date -->
-      <td>11. <br/>
+      <td>Lec 11. Data Science <br/>
       (Recording) <br/> 
       (Slides)
       </td> <!-- Lecture -->
@@ -197,7 +197,7 @@
     </tr>
     <tr>
       <th>Tue 7/9</th> <!-- Date -->
-      <td>12. <br/>
+      <td>Lec 12. AI + ML + LLM <br/>
       (Recording) <br/> 
       (Slides)
       <!-- (recording) -->
@@ -208,7 +208,7 @@
     </tr>
     <tr>
       <th>Wed 7/10 </th> <!-- Date -->
-      <td>13. <br/>
+      <td>Lec 13. Social Implications<br/>
       <!-- (recording) -->
       (Recording) <br/> 
       (Slides)
@@ -220,7 +220,7 @@
     </tr>
     <tr>
       <th>Thur 7/11</th> <!-- Date -->
-      <td>14. <br/>
+      <td>Lec 14. Midterm Review<br/>
       (Recording)<br/>
       (Slides)
       <!-- (recording) -->
@@ -242,7 +242,7 @@
     <tr>
       <td rowspan=5>Week 5</td>
       <th>Mon 7/15</th> <!-- Date -->
-      <td>15. <br/>
+      <td>Lec 15. Intro to Python + Data Types<br/>
       (Recording)<br/>
       (Slides)
       <!-- (recording) -->
@@ -261,7 +261,7 @@
     </tr>
     <tr>
       <th>Tue 7/16</th> <!-- Date -->
-      <td>16. <br/>
+      <td>Lec 16. Splicing + Mutability + Lists + List Comprehension<br/>
       (Recording)<br/>
       (Slides)<br/>
       (Code)
@@ -275,7 +275,7 @@
     </tr>
     <tr>
       <th>Wed 7/17 </th> <!-- Date -->
-      <td>17. <br />
+      <td>Lec 17. Data Structures (Dictionaries + Tuples)<br />
       (Recording)<br/>
       (Dr. Nicholas Weaver)
       </td> <!-- Lecture -->
@@ -293,7 +293,7 @@
     </tr>
     <tr>
       <th>Thur 7/18</th> <!-- Date -->
-      <td>18. <br/>
+      <td>Lec 18. OOP<br/>
       (Recording)<br/>
       (Slides)
       </td> <!-- Lecture -->
@@ -314,7 +314,7 @@
     <tr>
       <td rowspan=5>Week 6</td>
       <th>Mon 7/22</th> <!-- Date -->
-      <td>19. <br/>
+      <td>Lec 19. OOP Continued<br/>
       (Recording)<br/>
       (Slides)<br/>
       (Code)
@@ -328,7 +328,7 @@
     </tr>
     <tr>
       <th>Tue 7/23</th> <!-- Date -->
-      <td>20. <br/>
+      <td>Lec 20. Recursion in Python<br/>
       (Recording)<br/>
       (Slides)
       </td> <!-- Lecture -->
@@ -343,7 +343,7 @@
     </tr>
     <tr>
       <th>Wed 7/24 </th> <!-- Date -->
-      <td>21: <br/>
+      <td>Lec 21. Environments <br/>
       (Recording)<br/>
       (slides)
       </td> <!-- Lecture -->
@@ -357,10 +357,9 @@
     </tr>
     <tr>
       <th>Thur 7/25</th> <!-- Date -->
-      <td>22. <br/>
+      <td>Lec 22. Tree Recursion<br/>
       (Recording)<br/>
       (Slides)<br/>
-      (Prof. Hany Farid)<br/>
       <!-- (recording) -->
       </td> <!-- Lecture -->
       <td>16. </td> <!-- Lab -->
@@ -378,7 +377,7 @@
     <tr>
       <td rowspan=5>Week 7</td>
       <th>Mon 7/29</th> <!-- Date -->
-      <td>23.<br/>
+      <td>Lec 23. Dan's Lecture<br/>
       (Recording)<br/>
       (Slides)<br/>
       </td> <!-- Lecture -->
@@ -392,7 +391,7 @@
     </tr>
     <tr>
       <th>Tue 7/30</th> <!-- Date -->
-      <td>24. <br/>
+      <td>Lec 24. Websites<br/>
       (Recording)<br/>
       (Slides)<br/>
       </td> <!-- Lecture -->
@@ -406,7 +405,7 @@
     </tr>
     <tr>
       <th>Wed 7/31 </th> <!-- Date -->
-      <td>25. <br/>
+      <td>Lec 25. Websites Pt 2<br/>
       (Recording)<br/>
       (Slides)<br/>
       </td> <!-- Lecture -->
@@ -418,7 +417,7 @@
     </tr>
     <tr>
       <th>Thur 8/01</th> <!-- Date -->
-      <td>26. <br/>
+      <td>Lec 26. Robotics + Hardware<br/>
       (Recording)<br/>
       (Slides)<br/>
       </td> <!-- Lecture -->
@@ -441,37 +440,37 @@
     <tr>
       <td rowspan=5>Week 8</td>
       <th>Mon 8/05</th> <!-- Date -->
-      <td rowspan="5"></td> <!-- Lecture -->
-      <td rowspan="5"></td> <!-- Lab -->
-      <td rowspan="5"></td> <!-- Discussion -->
+      <td>Lec 27. Social Implications</td> <!-- Lecture -->
+      <td></td> <!-- Lab -->
+      <td></td> <!-- Discussion -->
       <td>Final Project Due</td> <!-- Assignment -->
     </tr>
     <tr>
       <th>Tue 8/06</th> <!-- Date -->
-      <!-- <td></td> --> <!-- Lecture -->
-      <!-- <td></td> --> <!-- Lab --> 
-      <!-- <td></td>Discussion -->
+      <td>Lec 28. Final Review + Farewell</td> <!-- Lecture -->
+      <td></td> <!-- Lab -->
+      <td></td> <!-- Discussion -->
       <td></td> <!-- Assignment -->
     </tr>
     <tr>
       <th>Wed 8/7</th> <!-- Date -->
-      <!-- Lecture -->
-      <!-- Lab -->
-      <!-- Discussion -->
+      <td>No lec</td> <!-- Lecture -->
+      <td></td> <!-- Lab -->
+      <td></td> <!-- Discussion -->
       <td></td> <!-- Assignment -->
     </tr>
     <tr>
       <th>Thur 8/8</th> <!-- Date -->
-      <!-- Lecture -->
-      <!-- Lab -->
-      <!-- <td></td> Discussion -->
+      <td>Final Review</td> <!-- Lecture -->
+      <td></td> <!-- Lab -->
+      <td></td> <!-- Discussion -->
       <td></td> <!-- Assignment -->
     </tr>
     <tr>
       <th>Fri 8/9</th> <!-- Date -->
-       <!-- Lecture -->
-      <!-- Lab -->
-      <!-- Discussion -->
+      <td>Final Retake</td> <!-- Lecture -->
+      <td></td> <!-- Lab -->
+      <td></td> <!-- Discussion -->
       <td></td> <!-- Assignment -->
     </tr>
   </tbody>
