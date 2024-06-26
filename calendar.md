@@ -79,8 +79,7 @@
       <a href="https://www.gradescope.com/courses/782967/assignments/4601776">(Lecture Quiz)</a></td>
        <!-- Lecture -->
       <td><a href="https://docs.google.com/document/d/1tSalQ3FU2pzuBn8eIS8LraeTva0gYjDe4wPZPffUhCM/edit?usp=drive_link">Lab 4. Lists + Loops</a></td> <!-- Lab -->
-<td><a href="https://docs.google.com/document/d/1GoikxRX6ndwrOQtC5Sg7Zflx9Uc2bbYP/edit?usp=sharing&ouid=100628398912857125629&rtpof=true&sd=true">Discussion 3. Domain / Range, Iteration, Scope, Lists</a></td> 
-<td rowspan="2"></td> <!-- Discussion -->
+<td rowspan="2"><a href="https://docs.google.com/document/d/1GoikxRX6ndwrOQtC5Sg7Zflx9Uc2bbYP/edit?usp=sharing&ouid=100628398912857125629&rtpof=true&sd=true">Discussion 3. Domain / Range, Iteration, Scope, Lists</a></td> <!-- Discussion -->
       <td>Project 1: Wordle™-lite Due</td> <!-- Assignment -->
     </tr>
     <tr>
