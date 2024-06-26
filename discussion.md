@@ -47,9 +47,10 @@ This page will be updated with discussion Worksheets and Solutions throughout th
      <tr>
       <td>Discussion 3</td>
       <td>Data-types, Domain / Range, Scoping, Lists, & HOFs</td>
-      <td>Worksheet</td>
-      <td>Solutions</td>
-      <td>Slides</td>
+      <td><a href="https://docs.google.com/document/d/1GoikxRX6ndwrOQtC5Sg7Zflx9Uc2bbYP/edit?usp=sharing&ouid=100628398912857125629&rtpof=true&sd=true"> Worksheet</a></td>
+      <td><a href="https://docs.google.com/document/d/1C1ntsHTSTBpPi6spHMQni39PTyNAnhkgjyciQGa5DCo/edit?usp=sharing"> Solutions</a>
+</td>
+      <td><a href="https://drive.google.com/file/d/1A2oRgUqzwXJY1c2im4q2HzXOQLVF4xk_/view?usp=sharing"> Slides</a></td>
     </tr>
     <tr>
       <td>Discussion 4</td>
