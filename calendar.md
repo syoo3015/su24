@@ -98,8 +98,8 @@
       <th>Wed 6/26 </th> <!-- Date -->
       <td>Lec 6. Functions as Data + Lambdas <br/>
       (Recording)<br/>
-      (Slides)<br/>
-      </td> <!-- Lecture -->
+      <a href="https://docs.google.com/presentation/d/1wTHm5WBqCWBxHGikdMoJSyKlrNljobwYmaKyfahzbFI/edit?usp=sharing">(Slides)</a><br/>
+      <a href="https://www.gradescope.com/courses/782967/assignments/4608557">(Lecture Quiz)</a></td> <!-- Lecture -->
       <td><a href="https://docs.google.com/document/d/1iC-9COcumR8FDQmSAsg19u-iN1hzr8YjPiq14t4k4ao/edit?usp=sharing">Lab 6. HOFs as Data</a> </td>
        <!-- Lab -->
       <td rowspan="2">3. Algorithms & Algorithmic Complexity<br/>
