@@ -111,7 +111,7 @@
     </tr>
     <tr>  
       <th>Thur 6/27 </th> <!-- Date -->
-      <td>Lec 7. Nested lists + Number Representation<br/>
+      <td><a href="https://docs.google.com/presentation/d/1F45-XE2OtneuHG4WphpCOf_VcSYoAI4qLo2dB5QWRAM/edit?usp=drive_link">Lec 7. Nested lists + Number Representation</a><br/>
        (Recording)<br/>
        (slides)
       </td> <!-- Lecture -->
