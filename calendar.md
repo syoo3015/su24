@@ -113,7 +113,7 @@
       <th>Thur 6/27 </th> <!-- Date -->
       <td>Lec 7. Nested lists + Number Representation<br/>
        (Recording)<br/>
-       <a href="https://docs.google.com/presentation/d/1F45-XE2OtneuHG4WphpCOf_VcSYoAI4qLo2dB5QWRAM/edit?usp=sharing">(Slides)</a></br>
+       <a href="https://docs.google.com/presentation/d/1F45-XE2OtneuHG4WphpCOf_VcSYoAI4qLo2dB5QWRAM/edit?usp=sharing">(Slides)</a>
       </td> <!-- Lecture -->
       <td><a href="https://docs.google.com/document/d/1HgCQMZ7n8WkwDNmNX4r8G3Xou5xjrYZvH71psGw9pfY/edit?usp=sharing">Lab 7. Boards</a></td> <!-- Lab -->
       <!-- <td></td> Discussion -->
