@@ -137,8 +137,7 @@
       <td>Lab 8. Algorithms (binary search)
       </td> <!-- Lab -->
       <td rowspan="2">Disc 5: Algorithmic Complexity</td> <!-- Discussion -->
-      <td> 
-      Project 3: 2048 Released and <b>Due (07/17)</b>
+      <td>
        </td> <!-- Assignment -->
     </tr>
     <tr>
@@ -146,7 +145,7 @@
       <td>Lec 9. Linear Recursion</td> <!-- Lecture -->
       <td>Lab 9. recursive reporters</td> <!-- Lab -->
       <!-- <td></td>Discussion -->
-      <td></td> <!-- Assignment -->
+      <td>Project 3: 2048 Released and <b>Due (07/10)</b></td> <!-- Assignment -->
     </tr>
     <tr>
       <th>Wed 7/3 </th> <!-- Date -->
@@ -216,7 +215,7 @@
       <td>Project Party</td> <!-- Lab -->
       <td rowspan="2">Disc 7:<br/>
       </td> <!-- Discussion -->
-      <td></td> <!-- Assignment -->
+      <td>Project 3: 2048 Due</td> <!-- Assignment -->
     </tr>
     <tr>
       <th>Thur 7/11</th> <!-- Date -->
@@ -227,9 +226,7 @@
       </td> <!-- Lecture -->
       <td>Practice Midterm</td> <!-- Lab -->
       <!-- <td></td> Discussion -->
-      <td>
-      <!-- release HW4: Snap to Python Translation -->
-      </td> <!-- Assignment -->
+      <td>Final Project Released</td> <!-- Assignment -->
     </tr>
     <tr>
       <th>Fri 7/12</th> <!-- Date -->
@@ -257,7 +254,7 @@
       Slides<br/>
       Solutions -->
       </td> <!-- Discussion -->
-      <td>Project 3: 2048 Due</td> <!-- Assignment -->
+      <td>Project 5 Released</td> <!-- Assignment -->
     </tr>
     <tr>
       <th>Tue 7/16</th> <!-- Date -->
@@ -269,8 +266,7 @@
       </td><!-- Lecture -->
       <td>Lab 14. </td> <!-- Lab -->
       <!-- <td></td>Discussion -->
-      <td>Project 4: Pyturis Released and <b>Due (07/24)</b><br/>
-      Final Project Proposal Released and <b>Due (07/22)</b><br/>
+      <td><br/>
       </td> <!-- Assignment -->
     </tr>
     <tr>
@@ -307,7 +303,7 @@
       <td>No Lecture</td> <!-- Lecture -->
       <td>No Lab</td> <!-- Lab -->
       <td>No Discussion</td> <!-- Discussion -->
-      <td>Final Project Propasal due Saturday 11:59pm</td> <!-- Assignment -->
+      <td></td> <!-- Assignment -->
     </tr>
     <!-- WEEK SIX ------------------------------------------------------------ -->
     <tr>
@@ -321,8 +317,7 @@
       <td> Lab 16 Continued...</td> <!-- Lab -->
       <td rowspan="2">Disc 10:<br/>
       </td> <!-- Discussion -->
-      <td>Project 4: Pyturis Due <br /> 
-      Final Project Released and <b>Due (08/07)</b><br/>
+      <td><br/>
       </td> <!-- Assignment -->
     </tr>
     <tr>
@@ -362,14 +357,14 @@
       </td> <!-- Lecture -->
       <td>Lab 18</td> <!-- Lab -->
       <!-- <td></td> Discussion -->
-      <td></td> <!-- Assignment -->
+      <td>Project 5 Due</td> <!-- Assignment -->
     </tr>
     <tr>
       <th>Fri 7/26</th> <!-- Date -->
       <td>No Lecture</td> <!-- Lecture -->
       <td>No Lab</td> <!-- Lab -->
       <td>No Discussion</td> <!-- Discussion -->
-      <td></td> <!-- Assignment -->
+      <td>Final Project Proposals Due</td> <!-- Assignment -->
     </tr>
     <!-- WEEK SEVEN ------------------------------------------------------------ -->
     <tr>
