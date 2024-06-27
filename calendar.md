@@ -134,7 +134,7 @@
       (Recording)<br/>
        (slides)
       </td> <!-- Lecture -->
-      <td>
+      <td>Lab 8. Algorithms (binary search)
       </td> <!-- Lab -->
       <td rowspan="2">4. Recursion I</td> <!-- Discussion -->
       <td> 
@@ -144,7 +144,7 @@
     <tr>
       <th>Tue 7/2</th> <!-- Date -->
       <td>Lec 9. Linear Recursion</td> <!-- Lecture -->
-      <td>No Lab</td> <!-- Lab -->
+      <td>Lab 9. recursive reporters</td> <!-- Lab -->
       <!-- <td></td>Discussion -->
       <td></td> <!-- Assignment -->
     </tr>
@@ -154,7 +154,7 @@
       (Recording)<br/> 
       (Slides)
        </td> <!-- Lecture -->
-      <td>9. </td> <!-- Lab -->
+      <td>Lab 10. Fractals</td> <!-- Lab -->
       <td rowspan="2">5. Recursion II<br/>
       </td> <!-- Discussion -->
       <td></td> <!-- Assignment -->
@@ -165,7 +165,7 @@
       (Recording)<br/> 
       (Slides)
       </td> <!-- Lecture -->
-      <td>10.</td> <!-- Lab -->
+      <td>No Lab</td> <!-- Lab -->
       <!-- <td></td> Discussion -->
       <td></td> <!-- Assignment -->
     </tr>
@@ -175,7 +175,7 @@
       <td>No Lab</td> <!-- Lab -->
       <td>No Discussion</td> <!-- Discussion -->
       <td>Midterm Exam 5pm-8pm <br />
-      Pinmental 1
+      Pimentel 1
       </td> <!-- Assignment -->
     </tr>
     <!-- WEEK FOUR------------------------------------------------------------ -->
@@ -186,7 +186,7 @@
       (Recording) <br/> 
       (Slides)
       </td> <!-- Lecture -->
-      <td>In-Lab Midterm</td> <!-- Lab -->
+      <td>Lab 11. Data Science</td> <!-- Lab -->
       <td rowspan="2">No Discussion</td> <!-- Discussion -->
       <td>In-Lab Midterm Exam<br/>
       9-11am PST<br/>
@@ -202,7 +202,7 @@
       (Slides)
       <!-- (recording) -->
       </td> <!-- Lecture -->
-      <td>No Lab</td> <!-- Lab -->
+      <td>Lab 12.</td> <!-- Lab -->
       <!-- <td></td>Discussion -->
       <td></td> <!-- Assignment -->
     </tr>
@@ -213,7 +213,7 @@
       (Recording) <br/> 
       (Slides)
       </td> <!-- Lecture -->
-      <td>11.  </td> <!-- Lab -->
+      <td>Project Party</td> <!-- Lab -->
       <td rowspan="2">6. Intro to Python<br/>
       </td> <!-- Discussion -->
       <td></td> <!-- Assignment -->
@@ -225,7 +225,7 @@
       (Slides)
       <!-- (recording) -->
       </td> <!-- Lecture -->
-      <td>12.  </td> <!-- Lab -->
+      <td>Practice Midterm</td> <!-- Lab -->
       <!-- <td></td> Discussion -->
       <td>
       <!-- release HW4: Snap to Python Translation -->
@@ -249,7 +249,7 @@
       </td> <!-- Lecture -->
       <td>
       <!--  -->
-      No Lab
+      Lab 13: Intro
       <!--  -->
       </td> <!-- Lab -->
       <td rowspan="2">7. Python Data Structures<br/>
@@ -267,7 +267,7 @@
       (Code)
       <!-- (recording) -->
       </td><!-- Lecture -->
-      <td>No Lab</td> <!-- Lab -->
+      <td>Lab 14. </td> <!-- Lab -->
       <!-- <td></td>Discussion -->
       <td>Project 4: Pyturis Released and <b>Due (07/24)</b><br/>
       Final Project Proposal Released and <b>Due (07/22)</b><br/>
@@ -279,9 +279,8 @@
       (Recording)<br/>
       (Dr. Nicholas Weaver)
       </td> <!-- Lecture -->
-      <td>13. OOP in Python
-      <!-- OOP -->
-      </td> <!-- Lab -->
+      <td>Lab 15: Data structures
+      <!-- Lab -->
       <td rowspan="2">8. Python OOP
       <!-- Worksheet<br/>
       Slides<br/>
@@ -297,7 +296,7 @@
       (Recording)<br/>
       (Slides)
       </td> <!-- Lecture -->
-      <td>14. Text Processing in Python</td> <!-- Lab -->
+      <td>Lab 16. OOP</td> <!-- Lab -->
       <!-- <td></td> Discussion -->
       <td>
       <!-- release Final Project Propasal -->
@@ -319,7 +318,7 @@
       (Slides)<br/>
       (Code)
       </td> <!-- Lecture -->
-      <td></td>  Project Proposal Reviews + Project Worksession <!-- Lab -->
+      <td> Lab 16 Continued...</td> <!-- Lab -->
       <td rowspan="2">9. Lambdas and HOFs<br/>
       </td> <!-- Discussion -->
       <td>Project 4: Pyturis Due <br /> 
@@ -334,8 +333,7 @@
       </td> <!-- Lecture -->
       <td>
       <!--  -->
-      Project Proposal Review + worksession <br />
-      15. Data Science (Optional)
+       Lab 17 <br />
       <!--  -->
       </td> <!-- Lab -->
       <!-- <td></td>Discussion -->
@@ -347,7 +345,7 @@
       (Recording)<br/>
       (slides)
       </td> <!-- Lecture -->
-      <td>No Lab</td> <!-- Lab -->
+      <td>Project Party</td> <!-- Lab -->
       <td rowspan="2">10. Tree Recursion + Concurrency<br/>
       <!-- Worksheet<br/>
       Slides<br/>
@@ -362,7 +360,7 @@
       (Slides)<br/>
       <!-- (recording) -->
       </td> <!-- Lecture -->
-      <td>16. </td> <!-- Lab -->
+      <td>Lab 18</td> <!-- Lab -->
       <!-- <td></td> Discussion -->
       <td></td> <!-- Assignment -->
     </tr>
@@ -381,7 +379,7 @@
       (Recording)<br/>
       (Slides)<br/>
       </td> <!-- Lecture -->
-      <td>No Lab</td> <!-- Lab -->
+      <td>Final Project Proposal Meetings</td> <!-- Lab -->
       <td rowspan="2">
       11. Final Review <br/>
       <!-- Worksheet<br/>
@@ -397,7 +395,7 @@
       </td> <!-- Lecture -->
       <td>
       <!--  -->
-      No Lab
+      Lab 19
       <!--  -->
       </td> <!-- Lab -->
       <!-- <td></td>Discussion -->
@@ -409,7 +407,7 @@
       (Recording)<br/>
       (Slides)<br/>
       </td> <!-- Lecture -->
-      <td></td> <!-- Lab -->
+      <td>Lab 19 Continued</td> <!-- Lab -->
       <td rowspan="2">12. Conclusion and Farewell<br/>
       <!-- Worksheet -->
       </td> <!-- Discussion -->
@@ -421,7 +419,7 @@
       (Recording)<br/>
       (Slides)<br/>
       </td> <!-- Lecture -->
-      <td>In-Lab Final</td> <!-- Lab -->
+      <td>Lab 20</td> <!-- Lab -->
       <!-- <td></td> Discussion -->
       <td>In-Lab Final Exam<br/>
       11am-1pm PST<br/>
@@ -441,28 +439,28 @@
       <td rowspan=5>Week 8</td>
       <th>Mon 8/05</th> <!-- Date -->
       <td>Lec 27. Social Implications</td> <!-- Lecture -->
-      <td></td> <!-- Lab -->
+      <td>Final Project Work Session</td> <!-- Lab -->
       <td></td> <!-- Discussion -->
       <td>Final Project Due</td> <!-- Assignment -->
     </tr>
     <tr>
       <th>Tue 8/06</th> <!-- Date -->
       <td>Lec 28. Final Review + Farewell</td> <!-- Lecture -->
-      <td></td> <!-- Lab -->
+      <td>Lab 21: Practice Final</td> <!-- Lab -->
       <td></td> <!-- Discussion -->
       <td></td> <!-- Assignment -->
     </tr>
     <tr>
       <th>Wed 8/7</th> <!-- Date -->
       <td>No lec</td> <!-- Lecture -->
-      <td></td> <!-- Lab -->
+      <td>Final</td> <!-- Lab -->
       <td></td> <!-- Discussion -->
       <td></td> <!-- Assignment -->
     </tr>
     <tr>
       <th>Thur 8/8</th> <!-- Date -->
       <td>Final Review</td> <!-- Lecture -->
-      <td></td> <!-- Lab -->
+      <td>Lab 21: Practice Final</td> <!-- Lab -->
       <td></td> <!-- Discussion -->
       <td></td> <!-- Assignment -->
     </tr>
