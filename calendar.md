@@ -102,7 +102,7 @@
       <a href="https://www.gradescope.com/courses/782967/assignments/4608557">(Lecture Quiz)</a></td> <!-- Lecture -->
       <td><a href="https://docs.google.com/document/d/1iC-9COcumR8FDQmSAsg19u-iN1hzr8YjPiq14t4k4ao/edit?usp=sharing">Lab 6. HOFs as Data</a> </td>
        <!-- Lab -->
-      <td rowspan="2">3. Algorithms & Algorithmic Complexity<br/>
+      <td rowspan="2">Disc 4: HOFs & Quest-Review<br/>
       <!-- Worksheet<br/>
       Slides<br/>
       Solutions -->
@@ -136,7 +136,7 @@
       </td> <!-- Lecture -->
       <td>Lab 8. Algorithms (binary search)
       </td> <!-- Lab -->
-      <td rowspan="2">4. Recursion I</td> <!-- Discussion -->
+      <td rowspan="2">Disc 5: Algorithmic Complexity</td> <!-- Discussion -->
       <td> 
       Project 3: 2048 Released and <b>Due (07/17)</b>
        </td> <!-- Assignment -->
@@ -155,7 +155,7 @@
       (Slides)
        </td> <!-- Lecture -->
       <td>Lab 10. Fractals</td> <!-- Lab -->
-      <td rowspan="2">5. Recursion II<br/>
+      <td rowspan="2">No Discussion<br/>
       </td> <!-- Discussion -->
       <td></td> <!-- Assignment -->
     </tr>
@@ -187,7 +187,7 @@
       (Slides)
       </td> <!-- Lecture -->
       <td>Lab 11. Data Science</td> <!-- Lab -->
-      <td rowspan="2">No Discussion</td> <!-- Discussion -->
+      <td rowspan="2">Disc 6: Recursion</td> <!-- Discussion -->
       <td>In-Lab Midterm Exam<br/>
       9-11am PST<br/>
       11am-1pm PST<br/>
@@ -214,7 +214,7 @@
       (Slides)
       </td> <!-- Lecture -->
       <td>Project Party</td> <!-- Lab -->
-      <td rowspan="2">6. Intro to Python<br/>
+      <td rowspan="2">Disc 7:<br/>
       </td> <!-- Discussion -->
       <td></td> <!-- Assignment -->
     </tr>
@@ -252,7 +252,7 @@
       Lab 13: Intro
       <!--  -->
       </td> <!-- Lab -->
-      <td rowspan="2">7. Python Data Structures<br/>
+      <td rowspan="2">Disc 8<br/>
       <!-- Worksheet<br/>
       Slides<br/>
       Solutions -->
@@ -281,7 +281,7 @@
       </td> <!-- Lecture -->
       <td>Lab 15: Data structures
       <!-- Lab -->
-      <td rowspan="2">8. Python OOP
+      <td rowspan="2">Disc 9
       <!-- Worksheet<br/>
       Slides<br/>
       Solutions -->
@@ -319,7 +319,7 @@
       (Code)
       </td> <!-- Lecture -->
       <td> Lab 16 Continued...</td> <!-- Lab -->
-      <td rowspan="2">9. Lambdas and HOFs<br/>
+      <td rowspan="2">Disc 10:<br/>
       </td> <!-- Discussion -->
       <td>Project 4: Pyturis Due <br /> 
       Final Project Released and <b>Due (08/07)</b><br/>
@@ -346,7 +346,7 @@
       (slides)
       </td> <!-- Lecture -->
       <td>Project Party</td> <!-- Lab -->
-      <td rowspan="2">10. Tree Recursion + Concurrency<br/>
+      <td rowspan="2">Disc 12<br/>
       <!-- Worksheet<br/>
       Slides<br/>
       Solutions -->
@@ -381,7 +381,7 @@
       </td> <!-- Lecture -->
       <td>Final Project Proposal Meetings</td> <!-- Lab -->
       <td rowspan="2">
-      11. Final Review <br/>
+      Disc 13 <br/>
       <!-- Worksheet<br/>
       Solutions -->
       </td> <!-- Discussion -->
@@ -408,7 +408,7 @@
       (Slides)<br/>
       </td> <!-- Lecture -->
       <td>Lab 19 Continued</td> <!-- Lab -->
-      <td rowspan="2">12. Conclusion and Farewell<br/>
+      <td rowspan="2">Disc 14<br/>
       <!-- Worksheet -->
       </td> <!-- Discussion -->
       <td></td><!-- Assignment -->
@@ -447,7 +447,7 @@
       <th>Tue 8/06</th> <!-- Date -->
       <td>Lec 28. Final Review + Farewell</td> <!-- Lecture -->
       <td>Lab 21: Practice Final</td> <!-- Lab -->
-      <td></td> <!-- Discussion -->
+      <td>Disc 15: Review</td> <!-- Discussion -->
       <td></td> <!-- Assignment -->
     </tr>
     <tr>
@@ -461,7 +461,7 @@
       <th>Thur 8/8</th> <!-- Date -->
       <td>Final Review</td> <!-- Lecture -->
       <td>Lab 21: Practice Final</td> <!-- Lab -->
-      <td></td> <!-- Discussion -->
+      <td>Disc 15: Review</td> <!-- Discussion -->
       <td></td> <!-- Assignment -->
     </tr>
     <tr>
