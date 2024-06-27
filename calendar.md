@@ -111,9 +111,9 @@
     </tr>
     <tr>  
       <th>Thur 6/27 </th> <!-- Date -->
-      <td><a href="https://docs.google.com/presentation/d/1F45-XE2OtneuHG4WphpCOf_VcSYoAI4qLo2dB5QWRAM/edit?usp=drive_link">Lec 7. Nested lists + Number Representation</a><br/>
+      <td>Lec 7. Nested lists + Number Representation<br/>
        (Recording)<br/>
-       (slides)
+       <a href="https://docs.google.com/presentation/d/1F45-XE2OtneuHG4WphpCOf_VcSYoAI4qLo2dB5QWRAM/edit?usp=drive_link">(Slides)</a>
       </td> <!-- Lecture -->
       <td>Lab 7. Boards </td> <!-- Lab -->
       <!-- <td></td> Discussion -->
