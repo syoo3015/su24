@@ -56,7 +56,7 @@ This page will be updated with discussion Worksheets and Solutions throughout th
       <td>Discussion 4</td>
       <td>Scoping, Lists, HOFs, & Number Representations</td>
       <td><a href="https://docs.google.com/document/d/1J9IoIBB10SrCzSOIrUSLxqlmG4YT8crU/edit?usp=sharing&ouid=113310664124216515894&rtpof=true&sd=true">Worksheet</a></td>
-      <td<a href="https://docs.google.com/document/d/1K_Qy-VqayffkE2j_-oKTDysXfugLq-2J/edit?usp=sharing&ouid=113310664124216515894&rtpof=true&sd=true">>Solutions</a></td>
+      <td><a href="https://docs.google.com/document/d/1K_Qy-VqayffkE2j_-oKTDysXfugLq-2J/edit?usp=sharing&ouid=113310664124216515894&rtpof=true&sd=true">Solutions</a></td>
       <td><a href="https://drive.google.com/file/d/1SLsGOxdf3MiQ6N9KLzifOXZag2X5a4Pn/view?usp=sharing">Slides</a></td>
     </tr>
     <tr>
