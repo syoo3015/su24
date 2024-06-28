@@ -102,7 +102,7 @@
       <a href="https://www.gradescope.com/courses/782967/assignments/4608557">(Lecture Quiz)</a></td> <!-- Lecture -->
       <td><a href="https://docs.google.com/document/d/1iC-9COcumR8FDQmSAsg19u-iN1hzr8YjPiq14t4k4ao/edit?usp=sharing">Lab 6. HOFs as Data</a> </td>
        <!-- Lab -->
-      <td rowspan="2"><a href="https://docs.google.com/document/d/1J9IoIBB10SrCzSOIrUSLxqlmG4YT8crU/edit?usp=sharing&ouid=113310664124216515894&rtpof=true&sd=true"> Discussion 4: Scoping, Lists, HOFs, & Number Representations </a></td> <!-- Discussion -->
+      <td rowspan="2">Disc 4: HOFs & Quest-Review<br/>
       <!-- Worksheet<br/>
       Slides<br/>
       Solutions -->
